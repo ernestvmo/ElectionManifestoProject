@@ -1,0 +1,3808 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<Lipschits_taxonomy year='1998'>
+  <theme id='AOW_AOWers'>
+    <related_themes>
+      <theme id='ouderen_beleid'/>
+    </related_themes>
+    <referrers>
+      <referrer>AOW-fonds</referrer>
+      <referrer>AOW-spaarfonds</referrer>
+      <referrer>Algemene Ouderdomswet (AOW)</referrer>
+      <referrer>Ouderdomsfonds</referrer>
+      <referrer>basispensioen</referrer>
+      <referrer>pensioengerechtigde leeftijd</referrer>
+      <referrer>spaarfonds AOW</referrer>
+    </referrers>
+  </theme>
+  <theme id='Afrika'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Nigeria</referrer>
+      <referrer>Rwanda</referrer>
+      <referrer>Soedan</referrer>
+    </referrers>
+  </theme>
+  <theme id='Algemene_Nabestaandenwet'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>ANW</referrer>
+      <referrer>Nabestaandenwet</referrer>
+    </referrers>
+  </theme>
+  <theme id='Aruba'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Koninkrijk(sgedachte)</referrer>
+      <referrer>Koninkrijksstatuut</referrer>
+      <referrer>Koninkrijksverhoudingen</referrer>
+      <referrer>Statuut voor het Koninkrijk der Nederlanden</referrer>
+      <referrer>status aparte</referrer>
+    </referrers>
+  </theme>
+  <theme id='Azi'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Birma</referrer>
+      <referrer>China</referrer>
+      <referrer>India</referrer>
+      <referrer>Indonesië</referrer>
+      <referrer>Japan</referrer>
+      <referrer>Pakistan</referrer>
+      <referrer>Zuid-Oost-Azië</referrer>
+    </referrers>
+  </theme>
+  <theme id='BTW'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>omzetbelasting</referrer>
+    </referrers>
+  </theme>
+  <theme id='Collectieve_Arbeidsovereenkomst'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>CAO-schalen</referrer>
+    </referrers>
+  </theme>
+  <theme id='Duitsland'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='Economische_en_Monetaire'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>EMU-criterium</referrer>
+      <referrer>EMU-norm</referrer>
+      <referrer>Euro</referrer>
+      <referrer>Europese Muntunie</referrer>
+    </referrers>
+  </theme>
+  <theme id='Economische_en_Monetaire_Unie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='Europese_samenwerking'>
+    <related_themes>
+      <theme id='Economische_en_Monetaire_Unie'/>
+    </related_themes>
+    <referrers>
+      <referrer>Amsterdam, Verdrag van</referrer>
+      <referrer>Euregio's</referrer>
+      <referrer>Europa met twee snelheden</referrer>
+      <referrer>Europees Energie Handvest</referrer>
+      <referrer>Europees Gemeenschappelijk Landbouwbeleid (GLB)</referrer>
+      <referrer>Europees Parlement</referrer>
+      <referrer>Europees Verdrag Mensenrechten</referrer>
+      <referrer>Europees veiligheidsbeleid</referrer>
+      <referrer>Europees veiligheidssysteem</referrer>
+      <referrer>Europese Centrale Bank</referrer>
+      <referrer>Europese Commissie</referrer>
+      <referrer>Europese Hof van justitie</referrer>
+      <referrer>Europese Raad van Ministers</referrer>
+      <referrer>Europese Structuuifondsen</referrer>
+      <referrer>Europese Unie (EU)</referrer>
+      <referrer>Europese defensiemacht</referrer>
+      <referrer>Europese eenwording</referrer>
+      <referrer>Europese integratie</referrer>
+      <referrer>Europese landbouv.fondsen</referrer>
+      <referrer>Europese landbouwmarkt</referrer>
+      <referrer>Europese samenwerking Europol</referrer>
+      <referrer>Fort Europa</referrer>
+      <referrer>Gemeenschappelijk Visserij beleid</referrer>
+      <referrer>Maastricht, Verdrag van</referrer>
+      <referrer>Raad van Ministers</referrer>
+      <referrer>Schengen, Akkoord van</referrer>
+      <referrer>Unie Europese Politieke Samenwerking (EPS)</referrer>
+      <referrer>federaal Europa</referrer>
+      <referrer>interne markt</referrer>
+      <referrer>stabiliteitspact</referrer>
+      <referrer>verenigd Europa</referrer>
+    </referrers>
+  </theme>
+  <theme id='Europese_samenwerking_landbouwbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Gemeenschappelijk Landbouw Beleid (GLB)</referrer>
+    </referrers>
+  </theme>
+  <theme id='Frankrijk'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='Friese_taal_en_cultuur'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='Grondwet'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>burgerrechten</referrer>
+      <referrer>constitutionele toetsing</referrer>
+      <referrer>grondrechten (klassieke en sociale)</referrer>
+    </referrers>
+  </theme>
+  <theme id='Midden-Oosten'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Akkoorden van Oslo</referrer>
+      <referrer>Arabische staten</referrer>
+      <referrer>Arabische wereld</referrer>
+      <referrer>Iran</referrer>
+      <referrer>Israël</referrer>
+      <referrer>Israëlisch-Palestijns conflict</referrer>
+      <referrer>Jeruzalem</referrer>
+      <referrer>Libanon</referrer>
+      <referrer>Nabije Oosten</referrer>
+      <referrer>Palestijnse A utoriteit</referrer>
+      <referrer>Palestijnse gezag</referrer>
+      <referrer>Palestijnse staat</referrer>
+      <referrer>Syrië</referrer>
+      <referrer>Turkije</referrer>
+      <referrer>Westelijke Jordaanoever</referrer>
+      <referrer>ouders en opvoeders Gaza-strook</referrer>
+    </referrers>
+  </theme>
+  <theme id='Midden-_en_Oost-Europa'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Albanië</referrer>
+      <referrer>Centraal- en Oost-Europa</referrer>
+      <referrer>GOS (Gemenebest van Onafhankelijke Staten)</referrer>
+      <referrer>Hongarije</referrer>
+      <referrer>Joegoslavië</referrer>
+      <referrer>Macedonië</referrer>
+      <referrer>Oost-Europa</referrer>
+      <referrer>Polen</referrer>
+      <referrer>Roemenië</referrer>
+      <referrer>Rusland</referrer>
+      <referrer>Russische Federatie</referrer>
+      <referrer>Slovenië</referrer>
+      <referrer>Slowakije</referrer>
+      <referrer>Sowjet- Unie</referrer>
+      <referrer>Tsjechië</referrer>
+      <referrer>Warschau Pact(-landen)</referrer>
+      <referrer>openbaar vervoer Bulgarije</referrer>
+    </referrers>
+  </theme>
+  <theme id='Midden-oosten'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Oslo, Akkoorden van</referrer>
+    </referrers>
+  </theme>
+  <theme id='NAVO'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Atlantisch bondgenootschap</referrer>
+      <referrer>Noord Atlantische Verdragsorganisatie</referrer>
+      <referrer>Noordatlantische Samenwerkingsraad (NASR)</referrer>
+      <referrer>Partnership for Peace Program (PPP)</referrer>
+    </referrers>
+  </theme>
+  <theme id='NA_VO'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='Nederland_Distributieland'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>distributieland</referrer>
+    </referrers>
+  </theme>
+  <theme id='Nederlandse_Antillen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Antillen</referrer>
+      <referrer>Koninkrijk(sgedachte)</referrer>
+      <referrer>Koninkrijksstatuut</referrer>
+      <referrer>Koninkrijksverhoudingen</referrer>
+      <referrer>Statuut voor het Koninkrijk der Nederlanden</referrer>
+    </referrers>
+  </theme>
+  <theme id='Nederlandse_taal'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Nederlandse Taalunie</referrer>
+      <referrer>Taalunie</referrer>
+      <referrer>taalbehoud</referrer>
+    </referrers>
+  </theme>
+  <theme id='Noord-Amerika'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Verenigde Staten</referrer>
+    </referrers>
+  </theme>
+  <theme id='OESO'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='Oost-_West_verhouding'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='Oost_-West_verhouding'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Koude Oorlog</referrer>
+    </referrers>
+  </theme>
+  <theme id='Organisatie_voor_Veiligheid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>OVSE</referrer>
+    </referrers>
+  </theme>
+  <theme id='Organisatie_voor_Veiligheid_en_Samenwerking_in_Europa'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='Papoeas'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='Raad_van_Commissarissen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Raad van Bestuur</referrer>
+      <referrer>aandeelhouders</referrer>
+    </referrers>
+  </theme>
+  <theme id='Raad_van_Europa'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='Randstad'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='Scandinavi'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Denemarken</referrer>
+      <referrer>Noord-Europa</referrer>
+    </referrers>
+  </theme>
+  <theme id='Staten-Generaal'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Eerste Kamer</referrer>
+      <referrer>Kamerleden</referrer>
+      <referrer>Tweede Kamer</referrer>
+      <referrer>parlement</referrer>
+      <referrer>parlementaire enquête</referrer>
+      <referrer>vertegenwoordiging</referrer>
+      <referrer>volksvertegenwoordigers</referrer>
+    </referrers>
+  </theme>
+  <theme id='Suriname'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Raamverdrag</referrer>
+    </referrers>
+  </theme>
+  <theme id='Verenigd_Koninkrijk'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Groot-Brittannië</referrer>
+    </referrers>
+  </theme>
+  <theme id='Verenigde_Naties'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Internationaal Gerechtshof</referrer>
+      <referrer>Internationale Hof van Arbitrage</referrer>
+      <referrer>VN-tribunalen</referrer>
+      <referrer>Veiligheidsraad</referrer>
+      <referrer>non-gouvernementele organisaties</referrer>
+    </referrers>
+  </theme>
+  <theme id='Vlaanderen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='WAO_WAOers'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Wet op de Arbeidsongeschiktheid</referrer>
+      <referrer>arbeidsongeschikten</referrer>
+      <referrer>arbeidsongeschiktheid</referrer>
+      <referrer>wao-gat</referrer>
+    </referrers>
+  </theme>
+  <theme id='West-Europese_Unie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>WEU</referrer>
+    </referrers>
+  </theme>
+  <theme id='Ziekenfonds'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='Zuid-Afrika'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>apartheidspolitiek</referrer>
+    </referrers>
+  </theme>
+  <theme id='Zuid-Amerika'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Latijns Amerika</referrer>
+    </referrers>
+  </theme>
+  <theme id='Zuidmolukkers'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Molukkers</referrer>
+    </referrers>
+  </theme>
+  <theme id='abortus'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Wet Afbreking Zwangerschap</referrer>
+      <referrer>baas in eigen buik</referrer>
+      <referrer>levensbeëindigend handelen</referrer>
+      <referrer>over-tijd-behandeling</referrer>
+      <referrer>pro-life</referrer>
+      <referrer>selectieve abortus</referrer>
+      <referrer>voorzieningen ongeboren leven, bescherming van</referrer>
+      <referrer>zwangerschapsafbreking</referrer>
+    </referrers>
+  </theme>
+  <theme id='actiegroepen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>belangengroepen</referrer>
+      <referrer>lobby</referrer>
+      <referrer>pressiegroepen</referrer>
+    </referrers>
+  </theme>
+  <theme id='adoptie_van_kinderen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='algemeen_voortgezet_onderwijs'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>HA VO (Hoger Algemeen Voortgezet Onderwijs)</referrer>
+      <referrer>MAVO</referrer>
+      <referrer>middelbaar onderwijs</referrer>
+      <referrer>openbaar vervoer vervolgonderwijs</referrer>
+      <referrer>voortgezet onderwijs</referrer>
+    </referrers>
+  </theme>
+  <theme id='algemeen_voortgezet_onderwijs_beroepsonderwijs'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>regionale ontwikkeling secundair onderwijs</referrer>
+    </referrers>
+  </theme>
+  <theme id='alleenstaanden'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>alleengaanden</referrer>
+      <referrer>alleenstaande ouders</referrer>
+    </referrers>
+  </theme>
+  <theme id='alleenverdieners'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>tweeverdieners</referrer>
+      <referrer>één verdieners</referrer>
+    </referrers>
+  </theme>
+  <theme id='alternatieve_geneeswijze'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>homeopathie</referrer>
+    </referrers>
+  </theme>
+  <theme id='ambtenaren'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Algemene Bestuursdienst (ABD)</referrer>
+      <referrer>ambtelijk apparaat</referrer>
+      <referrer>ambtelijk corps</referrer>
+      <referrer>collectieve sector</referrer>
+      <referrer>overheidspersoneel</referrer>
+      <referrer>overheidssector</referrer>
+      <referrer>publieke ambt</referrer>
+      <referrer>publieke dienstverlening</referrer>
+      <referrer>rijksambtenaren</referrer>
+      <referrer>rijksdienst</referrer>
+      <referrer>topambtenaren</referrer>
+    </referrers>
+  </theme>
+  <theme id='arbeidsomstandigheden'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>AOW Wet op de Loopbaanonderbreking</referrer>
+      <referrer>ARBO-artsen</referrer>
+      <referrer>ARBO-dienst</referrer>
+      <referrer>ARBOwet</referrer>
+      <referrer>Arbeidstijdenwet</referrer>
+      <referrer>arbeidsinspectie</referrer>
+      <referrer>arbeidstijden</referrer>
+      <referrer>bedrijfsgezondheidszorg</referrer>
+      <referrer>betaald verlof</referrer>
+      <referrer>langdurig verlof</referrer>
+      <referrer>loopbaanonderbreking</referrer>
+      <referrer>loopbaanverbetering</referrer>
+      <referrer>openbaar vervoer avondopenstelling</referrer>
+      <referrer>opfrisverlof</referrer>
+      <referrer>scholingsverlof</referrer>
+      <referrer>tijdsparen</referrer>
+      <referrer>werkdruk</referrer>
+      <referrer>werkomstandigheden</referrer>
+      <referrer>werktijden</referrer>
+      <referrer>ziekteverzuim</referrer>
+    </referrers>
+  </theme>
+  <theme id='arbeidstijdverkorting'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>ATV</referrer>
+      <referrer>ATV-dagen</referrer>
+      <referrer>arbeidsduurverkorting</referrer>
+    </referrers>
+  </theme>
+  <theme id='arbeidsverhoudingen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>arbeidsconflicten</referrer>
+      <referrer>arbeidsgeschillen</referrer>
+      <referrer>arbeidsrust</referrer>
+      <referrer>sociaal klimaat</referrer>
+      <referrer>staking(srecht)</referrer>
+    </referrers>
+  </theme>
+  <theme id='armoedebestrijding'>
+    <related_themes>
+      <theme id='sociale_voorzieningen'/>
+    </related_themes>
+    <referrers>
+      <referrer>arm-rijk tegenstelling</referrer>
+      <referrer>armoedegrens</referrer>
+      <referrer>kwijtschelding van schulden (nationaal)</referrer>
+      <referrer>schuldenkwijtschelding</referrer>
+      <referrer>schuldenlast</referrer>
+      <referrer>schuldenregelingen</referrer>
+      <referrer>schuldhulpverlening (nationaal)</referrer>
+      <referrer>schuldsanering</referrer>
+      <referrer>tweedeling</referrer>
+    </referrers>
+  </theme>
+  <theme id='artsen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>huisarts</referrer>
+      <referrer>medische beroepsgroep</referrer>
+      <referrer>medische specialisten</referrer>
+      <referrer>specialisten</referrer>
+    </referrers>
+  </theme>
+  <theme id='autoverkeer'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>alcohol in het verkeer</referrer>
+      <referrer>autodeelsystemen</referrer>
+      <referrer>autodelen</referrer>
+      <referrer>autoloze zondag</referrer>
+      <referrer>autoluw gebied</referrer>
+      <referrer>automatische voertuiggeleiding</referrer>
+      <referrer>automobilist</referrer>
+      <referrer>automobiliteit</referrer>
+      <referrer>autovrij gebied</referrer>
+      <referrer>autowegen</referrer>
+      <referrer>benzineaccijns</referrer>
+      <referrer>benzinegebruik</referrer>
+      <referrer>benzineprijs</referrer>
+      <referrer>betaalstroken</referrer>
+      <referrer>brandstofaccijns</referrer>
+      <referrer>bromfietsen</referrer>
+      <referrer>buizenvervoer</referrer>
+      <referrer>carpooling</referrer>
+      <referrer>doelstroken</referrer>
+      <referrer>elektronische spitsheffing</referrer>
+      <referrer>elektronische tolheffing</referrer>
+      <referrer>file(vorming)</referrer>
+      <referrer>hands-free telefoon</referrer>
+      <referrer>ketenmobiliteit</referrer>
+      <referrer>lease-auto's</referrer>
+      <referrer>maximumsnelheid</referrer>
+      <referrer>mobiliteit(sgroei)</referrer>
+      <referrer>motorrijtuigenbelasting</referrer>
+      <referrer>ondergronds transportsysteem</referrer>
+      <referrer>ondergronds vervoer</referrer>
+      <referrer>openbaar vervoer verkeersonveiligheid</referrer>
+      <referrer>openbaar vervoer wegtransport</referrer>
+      <referrer>parkeerbeleid</referrer>
+      <referrer>parkeergarages</referrer>
+      <referrer>paylanes</referrer>
+      <referrer>personenverkeer</referrer>
+      <referrer>puntensysteem</referrer>
+      <referrer>rekeningrijden</referrer>
+      <referrer>rijbevoegdheid</referrer>
+      <referrer>rijbewijs</referrer>
+      <referrer>sluipverkeer</referrer>
+      <referrer>snelheidscontrole</referrer>
+      <referrer>snelheidsovertredingen</referrer>
+      <referrer>snelwegen</referrer>
+      <referrer>thuiswerken</referrer>
+      <referrer>toeritdosering</referrer>
+      <referrer>transferium</referrer>
+      <referrer>variabele autokosten</referrer>
+      <referrer>verkeer(sstelsel)</referrer>
+      <referrer>verkeersbeleid</referrer>
+      <referrer>verkeersslachtoffers</referrer>
+      <referrer>verkeersveiligheid</referrer>
+      <referrer>verstopping van wegen</referrer>
+      <referrer>vervoer</referrer>
+      <referrer>vervoer(sbeleid)</referrer>
+      <referrer>wegen (net)</referrer>
+      <referrer>wegen-infrastructuur</referrer>
+      <referrer>wegverkeer</referrer>
+    </referrers>
+  </theme>
+  <theme id='autoverkeer_informatietechnologie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>telewerken</referrer>
+    </referrers>
+  </theme>
+  <theme id='autoverkeer_openbaar_vervoer'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>woon-werkverkeer</referrer>
+    </referrers>
+  </theme>
+  <theme id='banken'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='basisonderwijs'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>basisschool</referrer>
+      <referrer>primair onderwijs</referrer>
+      <referrer>provinciaal bestuur en beleid lager onderwijs</referrer>
+    </referrers>
+  </theme>
+  <theme id='basisvorming'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='beddencapaciteit'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='belasting_en_eigen_woning'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>eigen-woningbezit</referrer>
+      <referrer>huurwaardeforfait</referrer>
+      <referrer>hypotheekrente, fiscale aftrek van</referrer>
+      <referrer>onroerend goed (zaak)-belasting</referrer>
+      <referrer>openbaar vervoer onderhoudskosten</referrer>
+      <referrer>overheidsbestuur en overheidsbeleid overdrachtsbelasting</referrer>
+    </referrers>
+  </theme>
+  <theme id='belastingen_algemeen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>belastingaftrek</referrer>
+      <referrer>belastingdienst</referrer>
+      <referrer>belastingdruk</referrer>
+      <referrer>belastingontvangsten</referrer>
+      <referrer>belastingstelsel</referrer>
+      <referrer>belastingverlaging</referrer>
+      <referrer>belastingvrije som</referrer>
+      <referrer>belastingvrije voet</referrer>
+      <referrer>directe belastingen</referrer>
+      <referrer>draagkrach t(principe)</referrer>
+      <referrer>fiscaal beleid</referrer>
+      <referrer>fiscaal stelsel</referrer>
+      <referrer>fiscale hervormingen</referrer>
+      <referrer>indirecte belastingen</referrer>
+      <referrer>lastendruk</referrer>
+      <referrer>lastenverlich ti ng</referrer>
+      <referrer>lastenverzwaring</referrer>
+      <referrer>overheidsbestuur en overheidsbeleid aftrekposten</referrer>
+      <referrer>vergroening van het belastingstelsel</referrer>
+      <referrer>verhoging</referrer>
+    </referrers>
+  </theme>
+  <theme id='belastingfraude'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Fiscale Informatie- en Opsporingsdienst (FIOD)</referrer>
+      <referrer>belastingmoraal</referrer>
+      <referrer>belastingontduiking</referrer>
+      <referrer>belastingontwijking</referrer>
+      <referrer>fiscale criminaliteit</referrer>
+      <referrer>misbruik belastingen</referrer>
+      <referrer>zwart circuit</referrer>
+      <referrer>zwartwerk</referrer>
+    </referrers>
+  </theme>
+  <theme id='beltaxi'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='beroepsonderwijs'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>MBO (Middelbaar Beroepsonderwijs)</referrer>
+      <referrer>MBVO</referrer>
+      <referrer>VBO</referrer>
+      <referrer>VMBO</referrer>
+      <referrer>middelbaar beroepsonderwijs (MBO)</referrer>
+      <referrer>voorbereidend beroepsonderwijs (VBO)</referrer>
+      <referrer>voorbereidend middelbaar beroepsonderwijs (VMBO)</referrer>
+    </referrers>
+  </theme>
+  <theme id='bevolkingsgroei'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>geboorteregeling</referrer>
+    </referrers>
+  </theme>
+  <theme id='binnenscheepvaart'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>scheepvaart</referrer>
+      <referrer>vaarwegen (net)</referrer>
+      <referrer>waterwegen</referrer>
+    </referrers>
+  </theme>
+  <theme id='bio-industrie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>intensieve veehouderij</referrer>
+      <referrer>kistkalveren</referrer>
+      <referrer>legbatterijen</referrer>
+      <referrer>varkenshouders</referrer>
+      <referrer>varkenspest</referrer>
+    </referrers>
+  </theme>
+  <theme id='biologische_wapens'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='buitenlands_beleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>internationale (rechts)orde</referrer>
+    </referrers>
+  </theme>
+  <theme id='chemische_wapens'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='collectieve_uitgaven'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Fonds Economische Structuurversterking (FES) (aardgasbatenfonds)</referrer>
+      <referrer>aardgasbaten (fonds)</referrer>
+      <referrer>begroting(sbeleid)</referrer>
+      <referrer>bezuiniging(en)</referrer>
+      <referrer>collectieve lasten (druk)</referrer>
+      <referrer>financieringstekort</referrer>
+      <referrer>lastenafwenteling</referrer>
+      <referrer>nationaal huishouden</referrer>
+      <referrer>nationaal inkomen</referrer>
+      <referrer>overheidsconsumptie</referrer>
+      <referrer>overheidsfinanciën</referrer>
+      <referrer>overheidsgeld</referrer>
+      <referrer>overheidshuishouding</referrer>
+      <referrer>overheidsrekening</referrer>
+      <referrer>overheidstekort</referrer>
+      <referrer>overheidsuitgaven</referrer>
+      <referrer>publieke financiën</referrer>
+      <referrer>rijksbegroting</referrer>
+      <referrer>schuldquote</referrer>
+      <referrer>staatsschuld(quote)</referrer>
+      <referrer>tekortquote</referrer>
+      <referrer>tekortreductie</referrer>
+    </referrers>
+  </theme>
+  <theme id='collectieve_uitgaven_investeringsbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>overheidsinvesteringen</referrer>
+    </referrers>
+  </theme>
+  <theme id='consumentenbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>consumenten platform</referrer>
+      <referrer>consumentenorganÎsatie</referrer>
+      <referrer>consumentisme</referrer>
+      <referrer>etikettering</referrer>
+      <referrer>keurmerk</referrer>
+      <referrer>produktinformatie</referrer>
+    </referrers>
+  </theme>
+  <theme id='criminaliteits_bestrijding'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='criminaliteitsbestrijding'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>binnenlandse veiligheid</referrer>
+      <referrer>buurtbeheersteam</referrer>
+      <referrer>buurtbemiddeling</referrer>
+      <referrer>buurtpreventie</referrer>
+      <referrer>criminele organisaties</referrer>
+      <referrer>delicten</referrer>
+      <referrer>diefstal</referrer>
+      <referrer>drugscriminaliteit</referrer>
+      <referrer>drugshandel</referrer>
+      <referrer>drugsoverlast</referrer>
+      <referrer>drugspanden</referrer>
+      <referrer>gedoogbeleid</referrer>
+      <referrer>gedoogcu ltu ur</referrer>
+      <referrer>georganiseerde criminaliteit</referrer>
+      <referrer>georganiseerde misdaad</referrer>
+      <referrer>geweldscriminaliteit</referrer>
+      <referrer>geweldsdelicten</referrer>
+      <referrer>geweldsmisdrijven</referrer>
+      <referrer>grenscontrole op personenvervoer</referrer>
+      <referrer>grensoverschrijdende misdaad</referrer>
+      <referrer>in de wijken</referrer>
+      <referrer>inbraak</referrer>
+      <referrer>jeugdbende</referrer>
+      <referrer>jeugdcriminaliteit</referrer>
+      <referrer>kleine criminaliteit</referrer>
+      <referrer>misdaadpreventie</referrer>
+      <referrer>onveilige parkeerplaatsen</referrer>
+      <referrer>onveilige straten</referrer>
+      <referrer>onveiligheid(sgevoelens)</referrer>
+      <referrer>openbare veiligheid</referrer>
+      <referrer>preventie van criminaliteit</referrer>
+      <referrer>sociale veiligheid</referrer>
+      <referrer>straat junks</referrer>
+      <referrer>supporters</referrer>
+      <referrer>van de burger)</referrer>
+      <referrer>vandalisme</referrer>
+      <referrer>veiligheid (op straat</referrer>
+      <referrer>vermogenscriminaliteit</referrer>
+      <referrer>vermogensmisdrijven</referrer>
+      <referrer>voorzieningen misdaadbestrijding</referrer>
+      <referrer>vrouwenhandel</referrer>
+      <referrer>wetshandhaving misdrijven</referrer>
+      <referrer>witwassen van crimineel geld</referrer>
+      <referrer>zedendelicten</referrer>
+      <referrer>zedenmisdrijven</referrer>
+    </referrers>
+  </theme>
+  <theme id='cultuurbeleid'>
+    <related_themes>
+      <theme id='Nederlandse_taal'/>
+    </related_themes>
+    <referrers>
+      <referrer>Fonds voor de Amateurkunst</referrer>
+      <referrer>Fonds voor de Podiumkunsten</referrer>
+      <referrer>Raad voor de Cultuur</referrer>
+      <referrer>Raad voor de Kunst</referrer>
+      <referrer>Wet Inkomensvoorziening Kunstenaars (WIK)</referrer>
+      <referrer>amateuristische kunstbeoefening</referrer>
+      <referrer>amateurkunst</referrer>
+      <referrer>archieven</referrer>
+      <referrer>architectuur</referrer>
+      <referrer>auteursrecht</referrer>
+      <referrer>bibliotheken</referrer>
+      <referrer>bouwkunst</referrer>
+      <referrer>buitenlands cultureel beleid</referrer>
+      <referrer>cu ltuurgoederen</referrer>
+      <referrer>cuLtureel erfgoed</referrer>
+      <referrer>cuLtuurspreiding</referrer>
+      <referrer>cultureLe pluriformiteit</referrer>
+      <referrer>cultureeL pluralisme</referrer>
+      <referrer>culturele identiteit</referrer>
+      <referrer>cultuurbehoud</referrer>
+      <referrer>cultuurpolitiek</referrer>
+      <referrer>cultuuruitingen</referrer>
+      <referrer>film</referrer>
+      <referrer>intellectuele eigendom</referrer>
+      <referrer>ku nst(beleid</referrer>
+      <referrer>kunstenaars</referrer>
+      <referrer>kunstschatten</referrer>
+      <referrer>kunstwerken</referrer>
+      <referrer>kunstzinnige vorming</referrer>
+      <referrer>monumenten(zorg)</referrer>
+      <referrer>museum</referrer>
+      <referrer>muziektheater</referrer>
+      <referrer>podiumkunsten</referrer>
+      <referrer>schouwburg</referrer>
+      <referrer>sponsoring van kunst</referrer>
+      <referrer>topkunst</referrer>
+    </referrers>
+  </theme>
+  <theme id='decentralisatie_privatisering'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>afslankende overheid</referrer>
+      <referrer>centralisering</referrer>
+      <referrer>deregulering</referrer>
+      <referrer>functionele decentralisatie</referrer>
+      <referrer>kerntaken overheid</referrer>
+      <referrer>overdracht van taken en bevoegdheden</referrer>
+      <referrer>privatisering overheidsbedrijven en overheidstaken</referrer>
+      <referrer>subsidiariteitsbeginsel</referrer>
+      <referrer>terugtredende overheid</referrer>
+      <referrer>verkoop staatsdeelnemingen</referrer>
+      <referrer>verzelfstandiging (van overheidsdiensten)</referrer>
+      <referrer>zelfregulering</referrer>
+    </referrers>
+  </theme>
+  <theme id='decentralisatie_privatisering_overheidsbestuur_en_overheidsbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='deeltijdarbeid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>deeltijdbanen</referrer>
+      <referrer>deeltijdwerk(ers)</referrer>
+      <referrer>flexibel werken</referrer>
+      <referrer>flexibele arbeid(stijden)</referrer>
+      <referrer>flexwerkers</referrer>
+    </referrers>
+  </theme>
+  <theme id='deeltijdarbeid_werkgelegenheid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>employability</referrer>
+    </referrers>
+  </theme>
+  <theme id='departementen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>departementale indeling</referrer>
+      <referrer>ministeries</referrer>
+    </referrers>
+  </theme>
+  <theme id='departementen_kabinet'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>bewindspersonen</referrer>
+      <referrer>ministers</referrer>
+    </referrers>
+  </theme>
+  <theme id='dienstensector'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>diensten economie</referrer>
+      <referrer>dienstverlening</referrer>
+    </referrers>
+  </theme>
+  <theme id='dierenwelzijn'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>appen</referrer>
+      <referrer>bedreigde diersoorten</referrer>
+      <referrer>beschermde planten en dieren</referrer>
+      <referrer>dierenbescherming</referrer>
+      <referrer>dierproeven</referrer>
+      <referrer>drijfnetten</referrer>
+      <referrer>huisdieren</referrer>
+      <referrer>jacht</referrer>
+      <referrer>oorf</referrer>
+      <referrer>pelsdierenhouderij</referrer>
+      <referrer>proefdieren</referrer>
+      <referrer>ritueel slachten</referrer>
+      <referrer>sportvissen</referrer>
+      <referrer>veetransport</referrer>
+      <referrer>veevervoer</referrer>
+      <referrer>walvisvangst</referrer>
+    </referrers>
+  </theme>
+  <theme id='dierenwelzijn_recreatie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>plezierjagen</referrer>
+    </referrers>
+  </theme>
+  <theme id='discriminatie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Algemene Wet Gelijke Behandeling</referrer>
+      <referrer>Wet Gelijke Behandeling</referrer>
+      <referrer>anti-Nederlander beleid</referrer>
+      <referrer>anti-discriminatiebeleid</referrer>
+      <referrer>anti-racisme</referrer>
+      <referrer>anti-semitisme</referrer>
+      <referrer>bestrijding van vooroordelen</referrer>
+      <referrer>gelijke behandeling</referrer>
+      <referrer>leeftijdsd iscrim inatie</referrer>
+      <referrer>onverdraagzaamheid</referrer>
+      <referrer>positieve discriminatie</referrer>
+      <referrer>racisme</referrer>
+      <referrer>tolerantie</referrer>
+      <referrer>verdraagzaamheid</referrer>
+      <referrer>vreemdelingenhaat</referrer>
+    </referrers>
+  </theme>
+  <theme id='doodstraf'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='economische_groei'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>economische ontwikkeling</referrer>
+      <referrer>economische vooruitgang</referrer>
+      <referrer>openbaar vervoer welvaartsgroei</referrer>
+    </referrers>
+  </theme>
+  <theme id='economische_orde'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Nederlandse Mededingingsautoriteit (NMa)</referrer>
+      <referrer>Wet op de Economische Mededinging</referrer>
+      <referrer>concurrentie</referrer>
+      <referrer>concurrentievervaLsing</referrer>
+      <referrer>economische structuur</referrer>
+      <referrer>flexibilisering van markten</referrer>
+      <referrer>kapitalistische economie</referrer>
+      <referrer>kartelvorming</referrer>
+      <referrer>markteconomie</referrer>
+      <referrer>marktsector</referrer>
+      <referrer>marktwerking</referrer>
+      <referrer>mededinging(sregiem)</referrer>
+      <referrer>open economie</referrer>
+      <referrer>open markteconomie</referrer>
+      <referrer>overlegeconom ie</referrer>
+      <referrer>overlegmodel</referrer>
+      <referrer>particuliere sector</referrer>
+      <referrer>poldermodel</referrer>
+      <referrer>public private partnership</referrer>
+      <referrer>publiek- private samenwerking</referrer>
+      <referrer>publiek-private financiering</referrer>
+      <referrer>sociale markteconomie</referrer>
+      <referrer>vrije concurren tie</referrer>
+      <referrer>vrije markt</referrer>
+    </referrers>
+  </theme>
+  <theme id='emancipatiebeleid'>
+    <related_themes>
+      <theme id='kinderopvangvoorzieningen'/>
+    </related_themes>
+    <referrers>
+      <referrer>Algemene Wet Gelijke Behandeling</referrer>
+      <referrer>Wet Gelijke Behandeling</referrer>
+      <referrer>gelijke behandeling</referrer>
+      <referrer>luchthavens en luchtvaart man-vrouw, taakverdeling</referrer>
+      <referrer>onbetaalde arbeid</referrer>
+      <referrer>roldoorbrekend beleid</referrer>
+      <referrer>taakverdeling man-vrouw</referrer>
+      <referrer>vTOuwen(emancipatie)</referrer>
+      <referrer>voorkeursbehandelinglvoorkeursbeleid vrouwen</referrer>
+    </referrers>
+  </theme>
+  <theme id='embryo-onderzoek'>
+    <related_themes>
+      <theme id='kunstmatige_bevruchting'/>
+    </related_themes>
+    <referrers>
+      <referrer>rest-embryo</referrer>
+    </referrers>
+  </theme>
+  <theme id='energiebeleid'>
+    <related_themes>
+      <theme id='kernenergie'/>
+    </related_themes>
+    <referrers>
+      <referrer>Energie Prestatie Norm (EPN)</referrer>
+      <referrer>Europees Energie Handvest</referrer>
+      <referrer>aardgasverbruik</referrer>
+      <referrer>aardgasvoorraden</referrer>
+      <referrer>aardwarmte-energie</referrer>
+      <referrer>afvalwarmte</referrer>
+      <referrer>alternatieve energiebronnen</referrer>
+      <referrer>bio-energie</referrer>
+      <referrer>bio-ethanol</referrer>
+      <referrer>biogas</referrer>
+      <referrer>biomassa</referrer>
+      <referrer>brandstofdrager</referrer>
+      <referrer>brandstofprijzen</referrer>
+      <referrer>duurzame energie(bronnen)</referrer>
+      <referrer>elektriciteitsverbruik</referrer>
+      <referrer>elektriciteitsvoorziening</referrer>
+      <referrer>energiebedrijven</referrer>
+      <referrer>energiebesparing</referrer>
+      <referrer>energiedragers</referrer>
+      <referrer>energiegebruik</referrer>
+      <referrer>energieheffing</referrer>
+      <referrer>energieopwekking</referrer>
+      <referrer>energieverbruik</referrer>
+      <referrer>energievoorziening</referrer>
+      <referrer>gasprijs</referrer>
+      <referrer>gasverbruik</referrer>
+      <referrer>gasvoorziening</referrer>
+      <referrer>getijdenenergie</referrer>
+      <referrer>groene stroom</referrer>
+      <referrer>isolatie van woningen</referrer>
+      <referrer>isolatienormen</referrer>
+      <referrer>restwarmte</referrer>
+      <referrer>warmtekrachtkoppeling (wkk)</referrer>
+      <referrer>waterenergie</referrer>
+      <referrer>windenergie</referrer>
+      <referrer>woningisolatie</referrer>
+      <referrer>zonne-energie</referrer>
+      <referrer>zonnecellen</referrer>
+    </referrers>
+  </theme>
+  <theme id='erfrecht'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>successiebelasting</referrer>
+      <referrer>successierecht</referrer>
+    </referrers>
+  </theme>
+  <theme id='ethische_problematiek'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Bio-ethische conventie</referrer>
+      <referrer>medisch- ethische vraagstukken</referrer>
+      <referrer>medisch-ethische commissies</referrer>
+      <referrer>medische ethiek</referrer>
+    </referrers>
+  </theme>
+  <theme id='etnische_en_culturele'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>pluriforme samenleving</referrer>
+    </referrers>
+  </theme>
+  <theme id='euthanasie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>actieve levensbeëindiging</referrer>
+      <referrer>levensbeëindigend handelen</referrer>
+      <referrer>opzettelijke levensbeëindiging</referrer>
+      <referrer>pro-life</referrer>
+      <referrer>stervensbegeleiding</referrer>
+      <referrer>versterven</referrer>
+    </referrers>
+  </theme>
+  <theme id='exportbevordering'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>exportfinancieringsfaciliteiten</referrer>
+      <referrer>exportkredietgaranties</referrer>
+    </referrers>
+  </theme>
+  <theme id='fietsers_en_voetgangers'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>bewaakte stallingen</referrer>
+      <referrer>fietsenstallingen</referrer>
+      <referrer>fietspaden</referrer>
+      <referrer>fietsstroken</referrer>
+      <referrer>fietsverkeer</referrer>
+      <referrer>fietsvoor zieningen</referrer>
+      <referrer>rijwielpaden</referrer>
+      <referrer>voetgangers</referrer>
+      <referrer>voetpaden</referrer>
+    </referrers>
+  </theme>
+  <theme id='financi_le_verantwoording_van_het_verkiezingsprogramma'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='fraude_sociale_voorzieningen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>bijstandsfraude</referrer>
+      <referrer>uitkeringsfraude</referrer>
+      <referrer>verzwijgen van bijverdiensten</referrer>
+    </referrers>
+  </theme>
+  <theme id='fraudebestrijding'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>zwartwerk</referrer>
+    </referrers>
+  </theme>
+  <theme id='fraudebestrijding_sociale'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>misbruik van stelsel van sociale zekerheid</referrer>
+      <referrer>oneigenlijk gebruik sociale voorzieningen</referrer>
+      <referrer>sociale voorzieningen sociale recherche</referrer>
+    </referrers>
+  </theme>
+  <theme id='fraudebestrijding_sociale_voorzieningen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='geestelijke_gezondheidszorg'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>RIAGG</referrer>
+      <referrer>Wet Bijzondere Opname Psychisch Zieken (BOPZ)</referrer>
+      <referrer>dementen</referrer>
+      <referrer>dementerende ouderen</referrer>
+      <referrer>geestelijk gehandicapten</referrer>
+      <referrer>opnamecriteria</referrer>
+      <referrer>ouderenbeleid psycho-sociale hulpverlening</referrer>
+      <referrer>psychiatrische instelling</referrer>
+      <referrer>psychiatrische kliniek</referrer>
+      <referrer>psychiatrische patiënten</referrer>
+      <referrer>verstandelijk gehandicapten</referrer>
+      <referrer>ziekenverzorging psycho-geriatrische zorg</referrer>
+    </referrers>
+  </theme>
+  <theme id='gehandicapten'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='gehandicaptenzorg'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Wet Voorzieningen Gehandicapten (WVG)</referrer>
+      <referrer>handicap, mensen met een</referrer>
+      <referrer>lichamelijk gehandicapten</referrer>
+      <referrer>persoonsgebonden budget (PGB)</referrer>
+      <referrer>slechthorenden</referrer>
+      <referrer>voorkeursbehandeling</referrer>
+      <referrer>voorkeursbeleid gehandicapten</referrer>
+      <referrer>woningaanpassing</referrer>
+    </referrers>
+  </theme>
+  <theme id='gemeentelijk_bestuur_en_beleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>College van Burgemeester en Wethouders</referrer>
+      <referrer>Gemeentefonds</referrer>
+      <referrer>Gemeentewet</referrer>
+      <referrer>Wet Gemeenschappelijke Regelingen</referrer>
+      <referrer>achterstandswijken</referrer>
+      <referrer>bovengemeentelijke samenwerking</referrer>
+      <referrer>burgemeester (gekozen)</referrer>
+      <referrer>gekozen burgemeester</referrer>
+      <referrer>gemeenschappelijke regelingen</referrer>
+      <referrer>gemeentelijke belastingen</referrer>
+      <referrer>gemeentelijke heffingen</referrer>
+      <referrer>gemeentelijke herindeling</referrer>
+      <referrer>gemeentelijke lastendruk</referrer>
+      <referrer>gemeenteraad</referrer>
+      <referrer>intergemeentelijke samenwerking</referrer>
+      <referrer>lagere overheden</referrer>
+      <referrer>lokaal bestuur</referrer>
+      <referrer>lokale overheden</referrer>
+      <referrer>probleemwijken</referrer>
+      <referrer>wethouders</referrer>
+    </referrers>
+  </theme>
+  <theme id='genetische_technologie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>genetische discriminatie</referrer>
+      <referrer>genetische interventie</referrer>
+      <referrer>genetische manipulatie</referrer>
+      <referrer>genetische modificatie</referrer>
+      <referrer>gentherapie</referrer>
+      <referrer>kiembaangentherapie</referrer>
+      <referrer>klonen</referrer>
+      <referrer>somatische gentherapie</referrer>
+      <referrer>transgene dieren</referrer>
+    </referrers>
+  </theme>
+  <theme id='gevangeniswezen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Huis van Bewaring</referrer>
+      <referrer>TBS- verpleging</referrer>
+      <referrer>TBS-verpleegden</referrer>
+      <referrer>cellentekortlcelcapaciteitlcelruimte</referrer>
+      <referrer>elektronisch huisarrest</referrer>
+      <referrer>ex-gedetineerde</referrer>
+      <referrer>gedetineerden</referrer>
+      <referrer>gevangen isstraf</referrer>
+      <referrer>huisdetentie</referrer>
+      <referrer>nachtdetentie</referrer>
+      <referrer>penitentiaire inrichtingen</referrer>
+      <referrer>reclassering</referrer>
+      <referrer>resocialisatie</referrer>
+      <referrer>stadsvernieuwing gevangen iscellen</referrer>
+      <referrer>twee-op-één -cel</referrer>
+      <referrer>vreemdelingendetentie</referrer>
+    </referrers>
+  </theme>
+  <theme id='gezondheidszorg'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Centraal Orgaan Tarieven Gezondheidszorg</referrer>
+      <referrer>Geneeskundige Inspectie</referrer>
+      <referrer>Gezondheidsraad</referrer>
+      <referrer>Rijksinstituut voor Volksgezondheid en Milieu</referrer>
+      <referrer>apothekers</referrer>
+      <referrer>eerstelijns-gezondheidszorg</referrer>
+      <referrer>farmaceutische industrie</referrer>
+      <referrer>farmacie</referrer>
+      <referrer>kraa m verlof</referrer>
+      <referrer>medicijnprijs</referrer>
+      <referrer>non-profit sector</referrer>
+      <referrer>prijsvorming van medicijnen</referrer>
+      <referrer>regionale zorgvoorzieningen</referrer>
+      <referrer>regionalisering gezondheidszorgstelsel</referrer>
+      <referrer>vervoer bevallingsverlof</referrer>
+      <referrer>volksgezondheid</referrer>
+      <referrer>wachtlijsten</referrer>
+      <referrer>wachttijden</referrer>
+      <referrer>ziektekosten</referrer>
+      <referrer>zorgaanbod</referrer>
+      <referrer>zorgbehoefte</referrer>
+      <referrer>zorgbudgetten</referrer>
+      <referrer>zorginstellingen</referrer>
+      <referrer>zorgsector</referrer>
+      <referrer>zorgstelsel</referrer>
+      <referrer>zorgverleners</referrer>
+      <referrer>zorgverlening</referrer>
+      <referrer>zorgverzekeraars</referrer>
+      <referrer>zorgvraag</referrer>
+      <referrer>zorgvragers</referrer>
+    </referrers>
+  </theme>
+  <theme id='glastuinbouw'>
+    <related_themes>
+      <theme id='landbouwbeleid'/>
+    </related_themes>
+    <referrers>
+      <referrer>tuinbouw(beleid)</referrer>
+    </referrers>
+  </theme>
+  <theme id='goederenvervoer'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Betuwelijn</referrer>
+      <referrer>autowegen</referrer>
+      <referrer>beroepsgoederenvervoer</referrer>
+      <referrer>bu is transport</referrer>
+      <referrer>bu isleidingen</referrer>
+      <referrer>buizenvervoer</referrer>
+      <referrer>containervervoer</referrer>
+      <referrer>goederentreinen</referrer>
+      <referrer>ondergronds transportsysteem</referrer>
+      <referrer>ondergronds vervoer</referrer>
+      <referrer>openbaar vervoer wegtransport</referrer>
+      <referrer>railvervoer</referrer>
+      <referrer>transportsector</referrer>
+      <referrer>transportwezen</referrer>
+      <referrer>verkeer(sstelsel)</referrer>
+      <referrer>verkeersbeleid</referrer>
+      <referrer>vervoer(sbeleid)</referrer>
+      <referrer>vrachtauto's</referrer>
+      <referrer>vrachtverkeer</referrer>
+      <referrer>vrachtvervoer</referrer>
+      <referrer>wegen (net)</referrer>
+      <referrer>wegen-infrastructuur</referrer>
+      <referrer>wegverkeer</referrer>
+    </referrers>
+  </theme>
+  <theme id='grondpolitiek'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>grond waarde</referrer>
+      <referrer>grondprijzen</referrer>
+      <referrer>grondspeculatie</referrer>
+    </referrers>
+  </theme>
+  <theme id='grondpolitk'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>grondbeleid</referrer>
+    </referrers>
+  </theme>
+  <theme id='grondstoffen_beleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>boringen (gas)</referrer>
+      <referrer>gaswinning</referrer>
+    </referrers>
+  </theme>
+  <theme id='grondstoffenbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>aardgas winning</referrer>
+      <referrer>aardoliewinning</referrer>
+      <referrer>benzineaccijns</referrer>
+      <referrer>benzinegebruik</referrer>
+      <referrer>benzineprijs</referrer>
+      <referrer>delfstoffen</referrer>
+      <referrer>fossiele brandstoffen</referrer>
+      <referrer>grondstofbesparing</referrer>
+      <referrer>grondstoffengebruik</referrer>
+      <referrer>natuurlijke hulpbronnen</referrer>
+      <referrer>natuurlijke rijkdommen</referrer>
+    </referrers>
+  </theme>
+  <theme id='grote_steden_grote-steden_beleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>woningbezit Eindhoven-Helmond</referrer>
+    </referrers>
+  </theme>
+  <theme id='grote_steden_grote-stedenbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Amsterdam-Schiphol</referrer>
+      <referrer>Arnhem-Nijmegen</referrer>
+      <referrer>Twente</referrer>
+      <referrer>Utrecht</referrer>
+      <referrer>ecopolis</referrer>
+      <referrer>grootstedelijke gebieden</referrer>
+      <referrer>metropolitaan milieu</referrer>
+      <referrer>regio Haaglanden</referrer>
+      <referrer>regio Rotterdam</referrer>
+      <referrer>stadsprovincie</referrer>
+      <referrer>stedelijke agglomeraties</referrer>
+      <referrer>steden beleid</referrer>
+      <referrer>verstedelijking</referrer>
+    </referrers>
+  </theme>
+  <theme id='hoger_onderwijs'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>HBO</referrer>
+      <referrer>HBO-Raad</referrer>
+      <referrer>Hoger Beroepsonderwijs (HBO)</referrer>
+      <referrer>Nieuwe Lerarenopleiding (NLO)</referrer>
+      <referrer>PABO (Pedagogische Academie voor Basisonderwijs)</referrer>
+      <referrer>Vereniging van Samenwerkende Nederlandse Universiteiten (VSNU)</referrer>
+      <referrer>derde geldstroom</referrer>
+      <referrer>eerste geldstroom</referrer>
+      <referrer>lerarenopleiding</referrer>
+      <referrer>loting</referrer>
+      <referrer>onderzoeksscholen</referrer>
+      <referrer>pedagogische academie voor basisonderwijs (PABO)</referrer>
+      <referrer>regionale ontwikkeling fundamenteel wetenschappelijk onderzoek</referrer>
+      <referrer>seksueel geweld gewogen loting</referrer>
+      <referrer>studenten</referrer>
+      <referrer>studieduur(differentiatie)</referrer>
+      <referrer>toegepast wetenschappelijk onderzoek</referrer>
+      <referrer>tweede geldstroom</referrer>
+      <referrer>universitair onderwijs</referrer>
+      <referrer>universitair onderzoek</referrer>
+      <referrer>universiteit</referrer>
+      <referrer>visitatiecommissie</referrer>
+      <referrer>wetenschappelijk onderwijs</referrer>
+      <referrer>wetenschappelijk onderzoek</referrer>
+      <referrer>wetenschapsbeleid</referrer>
+    </referrers>
+  </theme>
+  <theme id='homoseksualiteit'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>homohuwelijk</referrer>
+      <referrer>lesbische relatie</referrer>
+      <referrer>seksuele oriëntatie</referrer>
+    </referrers>
+  </theme>
+  <theme id='huwelijk'>
+    <related_themes>
+      <theme id='ouders_en_opvoeders'/>
+    </related_themes>
+    <referrers>
+      <referrer>alimentatie</referrer>
+      <referrer>alternatieve samenlevingsvormen</referrer>
+      <referrer>duurzaam samenwonenden</referrer>
+      <referrer>echtscheiding(sprocedures)</referrer>
+      <referrer>gehuwden</referrer>
+      <referrer>gezin</referrer>
+      <referrer>gezinsbeleid</referrer>
+      <referrer>gezinsleven</referrer>
+      <referrer>homohuwelijk</referrer>
+      <referrer>leefvormen</referrer>
+      <referrer>multiculturele huwelijken</referrer>
+      <referrer>niet-huwelijkse samenlevingsvormen</referrer>
+      <referrer>omgangsregeling</referrer>
+      <referrer>ongehuwd samenwonen</referrer>
+      <referrer>partnerregistratie</referrer>
+      <referrer>samenlevingsvormen anders dan huwelijk</referrer>
+      <referrer>scheiding</referrer>
+      <referrer>vluchtelingenbeleid schijnhuwelijk</referrer>
+    </referrers>
+  </theme>
+  <theme id='individuele_huursubsidie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>huursubsidie</referrer>
+    </referrers>
+  </theme>
+  <theme id='inflatie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='informatietechnologie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Loket 20, 00</referrer>
+      <referrer>automatisering</referrer>
+      <referrer>communicatietechnoLogie</referrer>
+      <referrer>computergebruik</referrer>
+      <referrer>digitale handtekening</referrer>
+      <referrer>digitale media</referrer>
+      <referrer>digitale samenleving</referrer>
+      <referrer>e-mail</referrer>
+      <referrer>elektronificering</referrer>
+      <referrer>elektronische betaling</referrer>
+      <referrer>elektronische snelweg</referrer>
+      <referrer>informatica(-onderwijs)</referrer>
+      <referrer>informatiemaatschappij</referrer>
+      <referrer>informatiemarkt</referrer>
+      <referrer>informatietijdperk</referrer>
+      <referrer>internet</referrer>
+      <referrer>internet-economie</referrer>
+      <referrer>micro-elektron ica</referrer>
+      <referrer>netwerken</referrer>
+      <referrer>providers</referrer>
+      <referrer>software</referrer>
+      <referrer>telecommunicatie</referrer>
+      <referrer>telefoon</referrer>
+      <referrer>telematica</referrer>
+      <referrer>thuiswerken</referrer>
+      <referrer>web-site</referrer>
+    </referrers>
+  </theme>
+  <theme id='infrastructuur'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>fYsieke inrichting</referrer>
+      <referrer>fysieke infrastructuu r</referrer>
+      <referrer>kennisinfrastructuur</referrer>
+    </referrers>
+  </theme>
+  <theme id='internationale_economische'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>World Trade Organization (WTO)</referrer>
+      <referrer>concurrentiepositie, internationaLe concurrentieverhoudingen, internationale</referrer>
+      <referrer>dumping</referrer>
+      <referrer>externe handel</referrer>
+      <referrer>handelsbarrières</referrer>
+      <referrer>handelsbelemmeringen</referrer>
+      <referrer>handelsliberalisatie</referrer>
+      <referrer>importheffingen</referrer>
+      <referrer>internationale concurrentie(kracht)</referrer>
+      <referrer>internationale handel</referrer>
+      <referrer>internationale markteconomie</referrer>
+      <referrer>multinationals</referrer>
+      <referrer>tolmuren</referrer>
+      <referrer>vrijhandel(szone)</referrer>
+      <referrer>wereldeconomie</referrer>
+      <referrer>wereldhandel</referrer>
+      <referrer>wereldmarkt</referrer>
+    </referrers>
+  </theme>
+  <theme id='internationale_economische_samenwerking'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='internationale_monetaire_samenwerking'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Internationaal Monetair Fonds (IMF)</referrer>
+      <referrer>Wereldbank</referrer>
+      <referrer>internationaal betalingsverkeer</referrer>
+    </referrers>
+  </theme>
+  <theme id='investeringsbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>bedrijfsinvesteringen</referrer>
+      <referrer>investeringsprojecten</referrer>
+      <referrer>investeringsruimte</referrer>
+    </referrers>
+  </theme>
+  <theme id='jongeren'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='jongerenbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Jeugdwerkgarantieplan (JWG)</referrer>
+      <referrer>Medisch Pedagogische Instelling</referrer>
+      <referrer>Tlslco-jongeren</referrer>
+      <referrer>gezinsvoogd</referrer>
+      <referrer>jeugd(beleid)</referrer>
+      <referrer>jeugdbescherming</referrer>
+      <referrer>jeugdhulpverlening</referrer>
+      <referrer>jeugdwelzijn</referrer>
+      <referrer>jeugdzorg</referrer>
+      <referrer>justitiële jeugd bescherming</referrer>
+      <referrer>justitiële jeugdinrichtingen</referrer>
+      <referrer>kinderbescherming</referrer>
+      <referrer>kinderrechter</referrer>
+      <referrer>minderjarigen</referrer>
+      <referrer>minimumjeugdloon</referrer>
+      <referrer>overheidsbestuur en overheidsbedrijven probleemjongeren</referrer>
+      <referrer>pleeggezinnen</referrer>
+      <referrer>pleegzorg</referrer>
+      <referrer>residentiële jeugdhulpverlening</referrer>
+      <referrer>vervoer randgroepjongeren</referrer>
+    </referrers>
+  </theme>
+  <theme id='jongerenbeleid_werkgelegenheid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>jeugdwerkloosheid</referrer>
+    </referrers>
+  </theme>
+  <theme id='kabinet'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Raad van State</referrer>
+      <referrer>dualisme</referrer>
+      <referrer>formateur (gekozen)</referrer>
+      <referrer>informateur</referrer>
+      <referrer>kabinetsformateur</referrer>
+      <referrer>kabinetsformatie</referrer>
+      <referrer>minister-president</referrer>
+      <referrer>ministeriële bevoegdheden</referrer>
+      <referrer>ministeriële verantwoordelijkheid</referrer>
+      <referrer>ministerraad</referrer>
+      <referrer>regeerakkoord</referrer>
+      <referrer>regering</referrer>
+    </referrers>
+  </theme>
+  <theme id='kernenergie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Dodewaard</referrer>
+      <referrer>atoomenergie</referrer>
+      <referrer>kerncentrales</referrer>
+    </referrers>
+  </theme>
+  <theme id='kiesrecht_kiesstelsel'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>districtenstelsel</referrer>
+      <referrer>evenredige vertegenwoordiging</referrer>
+      <referrer>kiesdrempel</referrer>
+      <referrer>kiezer en gekozene</referrer>
+      <referrer>openbaar vervoer verkiezingen</referrer>
+      <referrer>opkomstplicht</referrer>
+    </referrers>
+  </theme>
+  <theme id='kinderbijslag'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>kindertoeslag</referrer>
+    </referrers>
+  </theme>
+  <theme id='kinderopvangvoorzieningen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>buitenschoolse opvang</referrer>
+      <referrer>crèche</referrer>
+      <referrer>gastouderprojecten</referrer>
+      <referrer>kinderdagverblijven</referrer>
+      <referrer>naschoolse opvang</referrer>
+      <referrer>opvangmogelijkheden voor kinderen</referrer>
+      <referrer>overheidsbestuur en overheidstaken verlengde schooldag</referrer>
+      <referrer>peuterspeelzalen</referrer>
+      <referrer>tussenschoolse opvang</referrer>
+      <referrer>voorschoolse opvang</referrer>
+    </referrers>
+  </theme>
+  <theme id='koppeling_van_uitkeringen_en'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>WKA</referrer>
+      <referrer>Wet op de Koppeling met Afwijkingsmogelijkheden (WKA)</referrer>
+    </referrers>
+  </theme>
+  <theme id='koppeling_van_uitkeringen_en_AOW'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='krijgsmacht'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Koninklijke Marechaussee</referrer>
+      <referrer>Korps Nationale Reserve</referrer>
+      <referrer>Marechaussee</referrer>
+      <referrer>Nationale Reserve</referrer>
+      <referrer>beroepsleger</referrer>
+      <referrer>beroepsmilita iren</referrer>
+      <referrer>defensie-apparaat</referrer>
+      <referrer>defensiebudget</referrer>
+      <referrer>defensiepersoneel</referrer>
+      <referrer>dienstplicht</referrer>
+      <referrer>dienstplichtigen</referrer>
+      <referrer>landmacht</referrer>
+      <referrer>luchtmacht</referrer>
+      <referrer>luchtmobiele brigade</referrer>
+      <referrer>marine</referrer>
+      <referrer>militair personeel</referrer>
+      <referrer>militaire oefenterreinen</referrer>
+      <referrer>militaire uitgaven</referrer>
+      <referrer>oefenterreinen</referrer>
+    </referrers>
+  </theme>
+  <theme id='kunstmatige_bevruchting'>
+    <related_themes>
+      <theme id='embryo-onderzoek'/>
+    </related_themes>
+    <referrers>
+      <referrer>biologische vader</referrer>
+      <referrer>donorinseminatie</referrer>
+      <referrer>donorsperma</referrer>
+      <referrer>draagmoederschap</referrer>
+      <referrer>eiceldonatie</referrer>
+      <referrer>in vitro-fertilisatie(ivf)</referrer>
+      <referrer>kunstmatige inseminatie</referrer>
+      <referrer>oma-moeder</referrer>
+      <referrer>onvruchtbaarheid</referrer>
+      <referrer>pre-implantatiediagnostiek</referrer>
+      <referrer>voortplantingstechnieken, nieuwe</referrer>
+      <referrer>vruchtbaarheidsbehandeling</referrer>
+      <referrer>zaaddonor(schap )</referrer>
+    </referrers>
+  </theme>
+  <theme id='landbouwbeleid'>
+    <related_themes>
+      <theme id='glastuinbouw'/>
+      <theme id='mestproblematiek'/>
+    </related_themes>
+    <referrers>
+      <referrer>Europees Gemeenschappelijk Landbouwbeleid (GLB)</referrer>
+      <referrer>Europese landbouv.fondsen</referrer>
+      <referrer>Europese landbouwmarkt</referrer>
+      <referrer>agrarische ondernemingen</referrer>
+      <referrer>agrarische productieprocessen</referrer>
+      <referrer>agrarische sector</referrer>
+      <referrer>agrificatie</referrer>
+      <referrer>akkerbouw</referrer>
+      <referrer>biologische landbouw</referrer>
+      <referrer>boeren</referrer>
+      <referrer>boerinnen</referrer>
+      <referrer>bosaanleg</referrer>
+      <referrer>bosbouw</referrer>
+      <referrer>ecologische landbouw</referrer>
+      <referrer>extensieve landbouw</referrer>
+      <referrer>geïntegreerde landbouw</referrer>
+      <referrer>intensieve landbouw</referrer>
+      <referrer>melkquotering</referrer>
+      <referrer>melkveehouderij</referrer>
+      <referrer>pluimveehouderij</referrer>
+      <referrer>quotering(sregelingen)</referrer>
+      <referrer>tuinbouw(beleid)</referrer>
+      <referrer>tuinders</referrer>
+      <referrer>veehouderij</referrer>
+      <referrer>veestapel, inkrimping van</referrer>
+      <referrer>veeteeltbedrijf</referrer>
+      <referrer>voedselproduktie</referrer>
+      <referrer>voedselvoorziening</referrer>
+    </referrers>
+  </theme>
+  <theme id='landmijnen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='leerkrachten'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>bijscholing leerkrachten</referrer>
+      <referrer>collectieve sector</referrer>
+      <referrer>docenten</referrer>
+      <referrer>leraar(sberoep )</referrer>
+      <referrer>milieubeleid nascholing leerkrachten</referrer>
+      <referrer>onderwijscorps</referrer>
+      <referrer>onderwijskrachten</referrer>
+      <referrer>onderwijspersoneel</referrer>
+      <referrer>onderwijzend personeel</referrer>
+      <referrer>onderwijzer</referrer>
+      <referrer>sabbatsjaar</referrer>
+      <referrer>sabbatsverlof</referrer>
+    </referrers>
+  </theme>
+  <theme id='leerlingenstelsel'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>leerlingwezen</referrer>
+      <referrer>praktijkleerplaatsen</referrer>
+    </referrers>
+  </theme>
+  <theme id='leerplicht_leerplichtige_leeftijd'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>leerrecht</referrer>
+      <referrer>schoolverzuim</referrer>
+      <referrer>spijbelen</referrer>
+    </referrers>
+  </theme>
+  <theme id='loon-_en_inkomensbeleid'>
+    <related_themes>
+      <theme id='minimuminkomen'/>
+    </related_themes>
+    <referrers>
+      <referrer>arbeidsinkomsten</referrer>
+      <referrer>arbeidskosten</referrer>
+      <referrer>arbeidsvoorwaarden (overleg)</referrer>
+      <referrer>armoedeval</referrer>
+      <referrer>automatische prijscompensatie</referrer>
+      <referrer>basisinkomen</referrer>
+      <referrer>besteedbaar inkomen</referrer>
+      <referrer>denivellering</referrer>
+      <referrer>flexibilisering van arbeidsvoorwaarden</referrer>
+      <referrer>herverdeling van inkomens</referrer>
+      <referrer>inkomensbeleid</referrer>
+      <referrer>inkomenseffecten</referrer>
+      <referrer>inkomensgelijkheid</referrer>
+      <referrer>inkomensmatiging</referrer>
+      <referrer>inkomensnivellering</referrer>
+      <referrer>inkomensondersteuninglin-komensontwikkeling</referrer>
+      <referrer>inkomensongelijkheidlinkomensverhoudingen</referrer>
+      <referrer>inkomensverbetering</referrer>
+      <referrer>inkomensverdeling</referrer>
+      <referrer>inkomenszekerheid</referrer>
+      <referrer>koopkracht(ontwikkeling)</referrer>
+      <referrer>lage lonen</referrer>
+      <referrer>loon index</referrer>
+      <referrer>loonkosten</referrer>
+      <referrer>loonkostensubsidies</referrer>
+      <referrer>loonmatiging</referrer>
+      <referrer>loononderhandelingen</referrer>
+      <referrer>loonontwikkeling</referrer>
+      <referrer>loonschalen</referrer>
+      <referrer>loonstijging</referrer>
+      <referrer>loonvorming</referrer>
+      <referrer>nivellering van inkomen</referrer>
+      <referrer>prestatieloon</referrer>
+      <referrer>prijscompensatie</referrer>
+      <referrer>prijsstijging</referrer>
+      <referrer>voetinkomen</referrer>
+    </referrers>
+  </theme>
+  <theme id='loon-_en_inkomstenbelasting'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>arbeidsaftrek</referrer>
+      <referrer>arbeidskostenforfait</referrer>
+      <referrer>arbeidstoeslag</referrer>
+      <referrer>belasting op arbeid</referrer>
+      <referrer>belastingprogressie</referrer>
+      <referrer>belastingschijf</referrer>
+      <referrer>dividendvrijstelling</referrer>
+      <referrer>fiscale basisaftrek</referrer>
+      <referrer>giften aftrek</referrer>
+      <referrer>inkomstenbelasting</referrer>
+      <referrer>lasten op arbeid</referrer>
+      <referrer>premie(heffing)</referrer>
+      <referrer>rente- en dividendvrijstelling</referrer>
+      <referrer>sociale premies</referrer>
+      <referrer>tariefgroepen</referrer>
+      <referrer>tariefverlaging</referrer>
+    </referrers>
+  </theme>
+  <theme id='luchthavens_en_luchtvaart'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Eindhoven, vliegveld</referrer>
+      <referrer>Lelystad, vliegveld</referrer>
+      <referrer>Maastricht-Aachen, vliegveld</referrer>
+      <referrer>Schiphol</referrer>
+      <referrer>Zestienhoven, vliegveld</referrer>
+      <referrer>landingsrechten</referrer>
+      <referrer>luchtvaart</referrer>
+      <referrer>luchtvaartmaatschappijen</referrer>
+      <referrer>luchtverkeer</referrer>
+      <referrer>overheidsbestuur en overheidsbeleid kerosine-accijns</referrer>
+      <referrer>regionale luchthavens</referrer>
+      <referrer>regionale vliegvelden</referrer>
+      <referrer>tweede nationale luchthaven</referrer>
+      <referrer>vliegtuig</referrer>
+      <referrer>vliegvelden</referrer>
+      <referrer>vliegverkeer</referrer>
+      <referrer>zeppelins</referrer>
+    </referrers>
+  </theme>
+  <theme id='luchthavens_en_luchtverkeer'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>nachtvluchten</referrer>
+    </referrers>
+  </theme>
+  <theme id='mediabeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Commissariaat voor de Media</referrer>
+      <referrer>NOS</referrer>
+      <referrer>NPS(-bestuur)</referrer>
+      <referrer>Radio Nederland Wereldomroep</referrer>
+      <referrer>Wereldomroep</referrer>
+      <referrer>commerciëLe omroep</referrer>
+      <referrer>dagbladen</referrer>
+      <referrer>identiteitsgebonden omroepverenigingen</referrer>
+      <referrer>ideële omroepverenigingen</referrer>
+      <referrer>kabelmaatschappijen</referrer>
+      <referrer>kijk- en luistergelden</referrer>
+      <referrer>krant</referrer>
+      <referrer>lokale omroep</referrer>
+      <referrer>media-aanbod</referrer>
+      <referrer>nationale omroep</referrer>
+      <referrer>omroepbestel</referrer>
+      <referrer>omroepbijdrage</referrer>
+      <referrer>omroepverenigingen</referrer>
+      <referrer>pers</referrer>
+      <referrer>persvrijheid</referrer>
+      <referrer>publiek bestel</referrer>
+      <referrer>publieke omroep</referrer>
+      <referrer>radio(zenders)</referrer>
+      <referrer>regionale omroep</referrer>
+      <referrer>vercommercialisering publieke omroep</referrer>
+      <referrer>vrije pers</referrer>
+      <referrer>vrijheid van meningsuiting</referrer>
+      <referrer>zendgemachtigde</referrer>
+      <referrer>zendmachtiging</referrer>
+      <referrer>zendtijdverdeling</referrer>
+    </referrers>
+  </theme>
+  <theme id='mestproblematiek'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>ammoniakuitstoot</referrer>
+      <referrer>bemesting</referrer>
+      <referrer>fosfaat</referrer>
+      <referrer>mineralenbalans</referrer>
+      <referrer>mineralenboekhouding</referrer>
+      <referrer>stikstof(oxiden)</referrer>
+      <referrer>vermesting</referrer>
+    </referrers>
+  </theme>
+  <theme id='metro'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='midden-_en_kleinbedrijf'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Bijstandsbesluit Zelfstandigen Begeleiding</referrer>
+      <referrer>familiebedrijf</referrer>
+      <referrer>kleine ondernemers</referrer>
+      <referrer>kleine zelfstandigen</referrer>
+      <referrer>openingstijden van winkels</referrer>
+      <referrer>overheidsbestuur en overheidsbeleid detailhandel</referrer>
+      <referrer>overheidsbestuur en overheidsbeleid zelfstandige ondernemer</referrer>
+      <referrer>partcipatiemaatschappijen</referrer>
+      <referrer>startende ondernemers</referrer>
+      <referrer>starters(facili tei ten)</referrer>
+      <referrer>vestigingseisen</referrer>
+      <referrer>vestigingswetgeving</referrer>
+      <referrer>wetshandhaving MKB</referrer>
+      <referrer>winkelgebieden</referrer>
+      <referrer>winkelopenstelling</referrer>
+      <referrer>winkelsluiting(stijden)</referrer>
+      <referrer>winkeltijden</referrer>
+      <referrer>ziektekostenverzekering klein- en middenbedrijf</referrer>
+    </referrers>
+  </theme>
+  <theme id='migranten_onderwijsinspectie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='milieu_beleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>afvalstoffen</referrer>
+      <referrer>afvalstromen</referrer>
+      <referrer>vergroening van het belastingstelsel</referrer>
+    </referrers>
+  </theme>
+  <theme id='milieubeleid'>
+    <related_themes>
+      <theme id='mestproblematiek'/>
+    </related_themes>
+    <referrers>
+      <referrer>AOW woestijnvorming</referrer>
+      <referrer>CO-2 emissie</referrer>
+      <referrer>CO-2 uitstoot</referrer>
+      <referrer>Deltaplan Grote Rivieren</referrer>
+      <referrer>Ecologische Hoofdstructuur (EHS)</referrer>
+      <referrer>Factor Vier</referrer>
+      <referrer>Nationaal Milieubeleidsplan (NMP)</referrer>
+      <referrer>Nota Milieu en Economie</referrer>
+      <referrer>Rijksinstituut voor Volksgezondheid en Milieu</referrer>
+      <referrer>Wereldmilieufonds (Verenigde Naties)</referrer>
+      <referrer>Wet Verontreiniging Oppervlaktewateren</referrer>
+      <referrer>afvalberg</referrer>
+      <referrer>afvalgroei</referrer>
+      <referrer>afvalheffing</referrer>
+      <referrer>afvalinzameling</referrer>
+      <referrer>afvalpreven tie</referrer>
+      <referrer>afvalrecycling</referrer>
+      <referrer>afvalwater</referrer>
+      <referrer>ammoniakuitstoot</referrer>
+      <referrer>anti-verdrogingsbeleid</referrer>
+      <referrer>asbest(verwijdering)</referrer>
+      <referrer>bemesting</referrer>
+      <referrer>bestrijdingsmiddelen</referrer>
+      <referrer>bio-diversiteit(sverdrag</referrer>
+      <referrer>biologische diversiteit</referrer>
+      <referrer>bodemerosie</referrer>
+      <referrer>bodemreiniging</referrer>
+      <referrer>bodemsanering</referrer>
+      <referrer>bodemverontreiniging</referrer>
+      <referrer>bodemvervuiling</referrer>
+      <referrer>broeikaseffect</referrer>
+      <referrer>broeikasgassen</referrer>
+      <referrer>chemische bestrijdingsmiddelen</referrer>
+      <referrer>convenanten</referrer>
+      <referrer>drijfgassen</referrer>
+      <referrer>drin kwatervoorziening</referrer>
+      <referrer>drinkwater</referrer>
+      <referrer>drinkwaterbescherm ingsgebieden</referrer>
+      <referrer>duurzame economie</referrer>
+      <referrer>duurzame ontwikkeling</referrer>
+      <referrer>duurzame samenleving</referrer>
+      <referrer>ecodumping</referrer>
+      <referrer>ecologie</referrer>
+      <referrer>ecologisch beheer</referrer>
+      <referrer>ecologische crisis</referrer>
+      <referrer>ecologische duurzaamheid</referrer>
+      <referrer>ecologische grenzen</referrer>
+      <referrer>ecologische innovatie</referrer>
+      <referrer>ecologische modernisering</referrer>
+      <referrer>ecologische normen</referrer>
+      <referrer>ecologische vernieuwing</referrer>
+      <referrer>ecologisering van het belastingstelsel</referrer>
+      <referrer>ecosysteem</referrer>
+      <referrer>ecotax</referrer>
+      <referrer>emissie (terugdringing van)</referrer>
+      <referrer>emissienormstelling</referrer>
+      <referrer>emissieplafond</referrer>
+      <referrer>emissierechten</referrer>
+      <referrer>fosfaat</referrer>
+      <referrer>geluidshinder</referrer>
+      <referrer>geluidsoverlast</referrer>
+      <referrer>gescheiden inzameling van afval</referrer>
+      <referrer>gewasbeschermingsmiddelen</referrer>
+      <referrer>groenfondsen</referrer>
+      <referrer>grondwater(beheer )</referrer>
+      <referrer>herbebossing</referrer>
+      <referrer>hergebruik(sverplichting)</referrer>
+      <referrer>innovatieve convenanten</referrer>
+      <referrer>integriteit van de schepping</referrer>
+      <referrer>joint implementation</referrer>
+      <referrer>kernafval</referrer>
+      <referrer>keurmerk</referrer>
+      <referrer>klimaatsysteem</referrer>
+      <referrer>klimaatverandering</referrer>
+      <referrer>kooldioxyde (uitstoot van)</referrer>
+      <referrer>kringloop(systemen)</referrer>
+      <referrer>kunstmest</referrer>
+      <referrer>lawaai</referrer>
+      <referrer>leefbaarheidsnormen</referrer>
+      <referrer>leefmilieu</referrer>
+      <referrer>leefomgeving</referrer>
+      <referrer>lozingsheffing</referrer>
+      <referrer>luchtverontreiniging</referrer>
+      <referrer>luchtvervuiling</referrer>
+      <referrer>mineralenbalans</referrer>
+      <referrer>mineralenboekhouding</referrer>
+      <referrer>natuurlijke omgeving</referrer>
+      <referrer>nucleair afval</referrer>
+      <referrer>nul-emissie</referrer>
+      <referrer>ontbossing</referrer>
+      <referrer>ontgronding</referrer>
+      <referrer>oplosmiddelen</referrer>
+      <referrer>oppervlaktewater</referrer>
+      <referrer>overheidsbestuur en overheidsbeleid chemisch afval</referrer>
+      <referrer>quotabank</referrer>
+      <referrer>radioactief afval</referrer>
+      <referrer>recycling</referrer>
+      <referrer>rentmeester(schap )</referrer>
+      <referrer>reparatie-economie</referrer>
+      <referrer>retourssytemen</referrer>
+      <referrer>riolering(sbeheer )</referrer>
+      <referrer>rioolbelasting</referrer>
+      <referrer>rioolrecht</referrer>
+      <referrer>rioolwater(zuiveringsinstallaties)</referrer>
+      <referrer>rivieren</referrer>
+      <referrer>riviervervuiling</referrer>
+      <referrer>sanering van vervuilde bodems</referrer>
+      <referrer>schone economie</referrer>
+      <referrer>schone energie</referrer>
+      <referrer>schone lucht</referrer>
+      <referrer>schone productieprocessen</referrer>
+      <referrer>schone tech nologie</referrer>
+      <referrer>schoon Nederland</referrer>
+      <referrer>schoon water</referrer>
+      <referrer>stank(overlast)</referrer>
+      <referrer>statiegeld(systemen)</referrer>
+      <referrer>stikstof(oxiden)</referrer>
+      <referrer>stiltegebied</referrer>
+      <referrer>straling</referrer>
+      <referrer>tropisch regenwoud</referrer>
+      <referrer>tweede generatie convenanten</referrer>
+      <referrer>uitstoot van schadelijke stoffen</referrer>
+      <referrer>verdroging</referrer>
+      <referrer>verhandelbare emissierechten</referrer>
+      <referrer>verhandelbare gebruiksrechten</referrer>
+      <referrer>vervuilde bodem</referrer>
+      <referrer>vervuilde grond</referrer>
+      <referrer>vervuiler (betaalt)</referrer>
+      <referrer>vervuiling</referrer>
+      <referrer>verwoestijning</referrer>
+      <referrer>verzurmg</referrer>
+      <referrer>waterbesparing</referrer>
+      <referrer>waterspoor</referrer>
+      <referrer>waterverontreiniging</referrer>
+      <referrer>watervervuiling</referrer>
+      <referrer>zee-ecosysteem</referrer>
+      <referrer>zeespiegelstijging</referrer>
+      <referrer>zeeën</referrer>
+      <referrer>zuiveringsheffing</referrer>
+      <referrer>zure regen</referrer>
+    </referrers>
+  </theme>
+  <theme id='milieubeleid_recreatie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>ecotoerisme</referrer>
+    </referrers>
+  </theme>
+  <theme id='milieubeleid_waterschappen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>waterbeheer</referrer>
+    </referrers>
+  </theme>
+  <theme id='militaire_interventie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>VN-vredesmacht</referrer>
+      <referrer>VN-vredesoperaties</referrer>
+      <referrer>crisisbeheersingsoperaties</referrer>
+      <referrer>humanitaire interventie</referrer>
+      <referrer>vrede-afdwingende activiteiten</referrer>
+      <referrer>vredebewarende activiteiten</referrer>
+      <referrer>vredeshandhaving</referrer>
+      <referrer>vredesmacht</referrer>
+      <referrer>vredesmissies</referrer>
+      <referrer>vredesoperaties</referrer>
+    </referrers>
+  </theme>
+  <theme id='minderheden'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>pluriforme samenleving</referrer>
+    </referrers>
+  </theme>
+  <theme id='minderheden_etnische'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>multiculturele huwelijken</referrer>
+    </referrers>
+  </theme>
+  <theme id='minderheden_etnische_en_culturele'>
+    <related_themes>
+      <theme id='onderwijs_aan_allochtonen_migranten'/>
+    </related_themes>
+    <referrers>
+      <referrer>Wet op de Inburgering</referrer>
+      <referrer>allochtone jongeren</referrer>
+      <referrer>btlÏtenlandse werknemers</referrer>
+      <referrer>buitenlandse arbeidskrachten</referrer>
+      <referrer>cultureLe pluriformiteit</referrer>
+      <referrer>cultureeL pluralisme</referrer>
+      <referrer>culturele identiteit</referrer>
+      <referrer>culturen</referrer>
+      <referrer>en culturele multiculturele samenleving</referrer>
+      <referrer>etnische apartheid</referrer>
+      <referrer>etnische entiteiten</referrer>
+      <referrer>etnische minderheden</referrer>
+      <referrer>etnische ondernemers</referrer>
+      <referrer>etnische spanningen</referrer>
+      <referrer>gettovorming</referrer>
+      <referrer>immigranten kinderen</referrer>
+      <referrer>inburgeringscontractenlinburgeringstrajecten</referrer>
+      <referrer>integratie van allochtonen</referrer>
+      <referrer>medelanders</referrer>
+      <referrer>migranten</referrer>
+      <referrer>migranten allochtonen</referrer>
+      <referrer>migranten interculturele samenleving</referrer>
+      <referrer>multietnische samenleving</referrer>
+      <referrer>nieuwkomers</referrer>
+      <referrer>onderwijs aan allochtonen</referrer>
+      <referrer>segregatie(proces)</referrer>
+      <referrer>sportbeleid Surinaamse gemeenschap</referrer>
+      <referrer>tolerantie</referrer>
+      <referrer>verdraagzaamheid</referrer>
+      <referrer>voorkeursbehandeling</referrer>
+      <referrer>voorkeursbeleid allochtonen</referrer>
+      <referrer>voorzieningen</referrer>
+      <referrer>woonlandbeginsel</referrer>
+    </referrers>
+  </theme>
+  <theme id='minimuminkomen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>laagste inkomens</referrer>
+      <referrer>laagste lonen</referrer>
+      <referrer>laagste loonschalen</referrer>
+      <referrer>minimumbestaan</referrer>
+      <referrer>minimumjeugdloon</referrer>
+      <referrer>minimumloon</referrer>
+      <referrer>sociaal minimum</referrer>
+      <referrer>wettelijk minimumloon (WML)</referrer>
+    </referrers>
+  </theme>
+  <theme id='natuurbeheer'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>landgoed(eren)</referrer>
+    </referrers>
+  </theme>
+  <theme id='natuurbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Groene Hart van Holland</referrer>
+      <referrer>IJmeer</referrer>
+      <referrer>IJsselmeer</referrer>
+      <referrer>Markermeer</referrer>
+      <referrer>Nationale Parken</referrer>
+      <referrer>Natuurbeleidsplan</referrer>
+      <referrer>Structuurschema Groene Ruimte</referrer>
+      <referrer>Waddengebied</referrer>
+      <referrer>Waddenzee</referrer>
+      <referrer>agrarisch natuurbeheer</referrer>
+      <referrer>beschermde planten en dieren</referrer>
+      <referrer>bosgebieden</referrer>
+      <referrer>cultuurlandschap</referrer>
+      <referrer>fauna-bescherming</referrer>
+      <referrer>flora-bescherming</referrer>
+      <referrer>groene infrastructuur</referrer>
+      <referrer>groene omgeving</referrer>
+      <referrer>heidevelden</referrer>
+      <referrer>landinrich ting(sbeleid)</referrer>
+      <referrer>landschap(sbeheer )</referrer>
+      <referrer>landschapsbescherming</referrer>
+      <referrer>landschapsinrichting</referrer>
+      <referrer>landschapspark</referrer>
+      <referrer>natllurlandschappen</referrer>
+      <referrer>natuurbeheer</referrer>
+      <referrer>natuurbehoud</referrer>
+      <referrer>natuurbescherming</referrer>
+      <referrer>natuurbouwprojecten</referrer>
+      <referrer>natuurgebieden</referrer>
+      <referrer>natuurontwikkeling</referrer>
+      <referrer>natuurreservaten</referrer>
+      <referrer>particulier natuurbeheer</referrer>
+      <referrer>uiterwaarden</referrer>
+      <referrer>wetlands</referrer>
+    </referrers>
+  </theme>
+  <theme id='normen_en_waarden'>
+    <related_themes>
+      <theme id='religie'/>
+    </related_themes>
+    <referrers>
+      <referrer>norm loos gedrag</referrer>
+      <referrer>normbesef</referrer>
+      <referrer>waarden</referrer>
+    </referrers>
+  </theme>
+  <theme id='nucleaire_bewapening_ontwapening'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>atoomwapens</referrer>
+      <referrer>wapenakkoorden</referrer>
+      <referrer>wapenbeheersing</referrer>
+    </referrers>
+  </theme>
+  <theme id='nucleaire_bewapening_ontwapening_veiligheidsbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>bewapening(swedloop )</referrer>
+    </referrers>
+  </theme>
+  <theme id='omscholing_arbeid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>bijscholing arbeid</referrer>
+      <referrer>herscholing</referrer>
+      <referrer>scholing</referrer>
+      <referrer>werkervaring(splaatsen)</referrer>
+    </referrers>
+  </theme>
+  <theme id='ondernemingsraad'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>democratisering in het bedrijfsleven</referrer>
+    </referrers>
+  </theme>
+  <theme id='onderwijs'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Onderwijsraad</referrer>
+    </referrers>
+  </theme>
+  <theme id='onderwijs_aan_allochtonen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>intercultureel onderwijs</referrer>
+      <referrer>sociale voorzieningen zwarte school</referrer>
+    </referrers>
+  </theme>
+  <theme id='onderwijs_aan_allochtonen_migranten'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='onderwijs_aan_allochtonenl'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Onderwijs in Eigen Taal en Cultuur (OETC)</referrer>
+    </referrers>
+  </theme>
+  <theme id='onderwijs_aan_volwassenen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>aanvullende educatie</referrer>
+      <referrer>levenslang leren</referrer>
+      <referrer>permanente educatie</referrer>
+      <referrer>studieverlof</referrer>
+      <referrer>tweede-kansonderwijs</referrer>
+      <referrer>volwasseneneducatie</referrer>
+      <referrer>volwassenenonderwijs</referrer>
+    </referrers>
+  </theme>
+  <theme id='onderwijsachterstanden'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>schooltijdverlenging</referrer>
+      <referrer>vensterschool</referrer>
+    </referrers>
+  </theme>
+  <theme id='onderwijsinspectie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>kwaliteitsbewaking onderwijs</referrer>
+      <referrer>overheidstoezich tonderwijs</referrer>
+    </referrers>
+  </theme>
+  <theme id='ontwikkelingssamenwerking'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Derde Wereld</referrer>
+      <referrer>Minst Ontwikkelde Landen (MOLs)</referrer>
+      <referrer>Noord-Zuid relatie</referrer>
+      <referrer>ODA-normen (Official Development Assistance)</referrer>
+      <referrer>UNDP (United Nations Development Program me)</referrer>
+      <referrer>arme</referrer>
+      <referrer>armste landen</referrer>
+      <referrer>bilaterale ontwikkelingsrelatie</referrer>
+      <referrer>humanitaire hulp</referrer>
+      <referrer>internationale hulp</referrer>
+      <referrer>kwijtschelding van schulden (internationaal)</referrer>
+      <referrer>lage-lonenlanden</referrer>
+      <referrer>medefinancieringsorganisatie (MFO)</referrer>
+      <referrer>multilaterale hulp</referrer>
+      <referrer>onderontwikkelde landen</referrer>
+      <referrer>onderontwikkeling</referrer>
+      <referrer>ontwikkelingshulp</referrer>
+      <referrer>ontwikkelingslanden</referrer>
+      <referrer>schuldenkwijtschelding</referrer>
+      <referrer>schuldenlast</referrer>
+      <referrer>schuldsanering (internationaa)</referrer>
+      <referrer>wereldvoedselplan</referrer>
+      <referrer>wereldvoedselvraagstuk</referrer>
+    </referrers>
+  </theme>
+  <theme id='openbaar'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Betuwelijn</referrer>
+      <referrer>railvervoer</referrer>
+    </referrers>
+  </theme>
+  <theme id='openbaar_en_bijzonder_onderwijs'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>bijzonder onderwijs</referrer>
+      <referrer>richting van onderwijs</referrer>
+      <referrer>samenwerkingsscholen</referrer>
+      <referrer>schoolidentiteit</referrer>
+      <referrer>schoolrichting</referrer>
+      <referrer>vrijheid van onderwijs</referrer>
+    </referrers>
+  </theme>
+  <theme id='openbaar_vervoer'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Fonds voor de Podiumkunsten</referrer>
+      <referrer>Hanzelijn</referrer>
+      <referrer>IJzeren Rijn</referrer>
+      <referrer>Interliner</referrer>
+      <referrer>Nederlandse Spoorwegen</referrer>
+      <referrer>OV-jaarkaart</referrer>
+      <referrer>RPF</referrer>
+      <referrer>Randstad Rail</referrer>
+      <referrer>VVD</referrer>
+      <referrer>Zuiderzeespoorlijn</referrer>
+      <referrer>belbus</referrer>
+      <referrer>busbanen</referrer>
+      <referrer>collectief personenvervoer</referrer>
+      <referrer>deeltaxi</referrer>
+      <referrer>groepstaxi</referrer>
+      <referrer>hoge-snelheidslijnen (HSL)</referrer>
+      <referrer>ketenmobiliteit</referrer>
+      <referrer>lightrail-lijn</referrer>
+      <referrer>mens bus (vervoer)</referrer>
+      <referrer>personenverkeer</referrer>
+      <referrer>sneltram</referrer>
+      <referrer>spoorbanen</referrer>
+      <referrer>spoorlijnen</referrer>
+      <referrer>spoorverbindingen</referrer>
+      <referrer>spoorwegen</referrer>
+      <referrer>streekvervoer</referrer>
+      <referrer>taxivervoer</referrer>
+      <referrer>tram</referrer>
+      <referrer>treintaxi</referrer>
+      <referrer>treinverkeer</referrer>
+      <referrer>vervoer</referrer>
+      <referrer>vrije busbanen</referrer>
+    </referrers>
+  </theme>
+  <theme id='optieregeling'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='orgaandonatie_orgaantransplantatie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='ouderen_beleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>dagbehandeling</referrer>
+      <referrer>dagopvang ollderenzorg</referrer>
+      <referrer>hoogbejaarden</referrer>
+    </referrers>
+  </theme>
+  <theme id='ouderenbeleid'>
+    <related_themes>
+      <theme id='AOW_AOWers'/>
+    </related_themes>
+    <referrers>
+      <referrer>bejaarden (beleid)</referrer>
+      <referrer>bejaardenoorden</referrer>
+      <referrer>bejaardentehuis</referrer>
+      <referrer>demotie</referrer>
+      <referrer>gepensioneerden</referrer>
+      <referrer>geriatrische afdeling</referrer>
+      <referrer>mantelzorg(ers)</referrer>
+      <referrer>oudedagsvoorziening</referrer>
+      <referrer>ouderenbonden</referrer>
+      <referrer>ouderenorganisaties</referrer>
+      <referrer>ouderenzorg</referrer>
+      <referrer>seniorenlabel</referrer>
+      <referrer>seniorenwoningen</referrer>
+      <referrer>vergrijzing</referrer>
+      <referrer>woningaanpassing</referrer>
+    </referrers>
+  </theme>
+  <theme id='ouders_en_opvoeders'>
+    <related_themes>
+      <theme id='huwelijk'/>
+    </related_themes>
+    <referrers>
+      <referrer>alleenstaande ouders</referrer>
+      <referrer>calamiteitenverlof</referrer>
+      <referrer>gezin</referrer>
+      <referrer>gezinsbeleid</referrer>
+      <referrer>gezinsleven</referrer>
+      <referrer>opvoeding</referrer>
+      <referrer>ouderschapsverlof</referrer>
+      <referrer>partnervoogdijschap</referrer>
+      <referrer>voogdij(-instelling)</referrer>
+      <referrer>welzijnsbeleid zorgverlof</referrer>
+      <referrer>zwangerschapsverlof</referrer>
+    </referrers>
+  </theme>
+  <theme id='overheidssubsidies'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>overheidsbestuur en overheidsbeleid subsidies</referrer>
+      <referrer>overheidssteun</referrer>
+      <referrer>subsidieverlening aan bedrijven</referrer>
+    </referrers>
+  </theme>
+  <theme id='paarse_regeringscoalitie_paars_kabinet'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='pensioenen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>VUT</referrer>
+      <referrer>aanvullende pensioenen</referrer>
+      <referrer>beroepsonderwijs (excl. Ho- ger Beroepsonderwijs)</referrer>
+      <referrer>eindloon</referrer>
+      <referrer>flexibele pensionering</referrer>
+      <referrer>flexibilisering van pensioenen</referrer>
+      <referrer>franchise</referrer>
+      <referrer>gepensioneerden</referrer>
+      <referrer>individualisering van pensioenen</referrer>
+      <referrer>pensioenaanspraken</referrer>
+      <referrer>pensioenafspraken</referrer>
+      <referrer>pensioengerechtigde leeftijd</referrer>
+      <referrer>pensioenopbouw</referrer>
+      <referrer>pensioenregeling</referrer>
+      <referrer>pensioenstelsel</referrer>
+      <referrer>pensionering</referrer>
+      <referrer>vervroegd pensioen</referrer>
+      <referrer>vervroegd u ittreden (VUT)</referrer>
+    </referrers>
+  </theme>
+  <theme id='pensioenfondsen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='persoonsgegevens_registratie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>genetische persoonsgegevens</referrer>
+      <referrer>girogluren</referrer>
+      <referrer>identificatieplicht</referrer>
+      <referrer>kliklijnen</referrer>
+      <referrer>privacy, bescherming van</referrer>
+    </referrers>
+  </theme>
+  <theme id='persoonsgegevens_registratie_van'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='plattelandsbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='politiebeleid'>
+    <related_themes>
+      <theme id='gevangeniswezen'/>
+    </related_themes>
+    <referrers>
+      <referrer>BVD (Binnenlandse Veiligheidsdienst)</referrer>
+      <referrer>Europese samenwerking Europol</referrer>
+      <referrer>Koninklijke Marechaussee</referrer>
+      <referrer>Politiewet</referrer>
+      <referrer>Rijkspolitie</referrer>
+      <referrer>Rijksrecherche</referrer>
+      <referrer>agent(en)</referrer>
+      <referrer>handhaving van de openbare orde</referrer>
+      <referrer>hulpagenten</referrer>
+      <referrer>jeugdpolitie</referrer>
+      <referrer>kinder- en zedenpolitie</referrer>
+      <referrer>korpsbeheerders</referrer>
+      <referrer>korpschefs</referrer>
+      <referrer>korpsen</referrer>
+      <referrer>misdaadpreventie</referrer>
+      <referrer>openbare orde</referrer>
+      <referrer>opsporingsbevoegdheid</referrer>
+      <referrer>opsporingsmethoden</referrer>
+      <referrer>parkeerwachten</referrer>
+      <referrer>parkwachten</referrer>
+      <referrer>particuliere beveiligingsdiensten</referrer>
+      <referrer>particuliere bewakingsdiensten</referrer>
+      <referrer>politie-apparaat</referrer>
+      <referrer>recherche</referrer>
+      <referrer>regionale korpsen</referrer>
+      <referrer>seksueel geweld zedenpolitie</referrer>
+      <referrer>snelheidscontrole</referrer>
+      <referrer>snelheidsovertredingen</referrer>
+      <referrer>stadswachten</referrer>
+      <referrer>surveillance</referrer>
+      <referrer>toezichthouders</referrer>
+      <referrer>veldpolitie</referrer>
+      <referrer>voorzieningen misdaadbestrijding</referrer>
+      <referrer>vrijwillige politie</referrer>
+      <referrer>waterpolitie</referrer>
+      <referrer>wetshandhaving misdrijven</referrer>
+      <referrer>wijkagent</referrer>
+      <referrer>wijkbureau</referrer>
+    </referrers>
+  </theme>
+  <theme id='politieke_partijen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>partijpolitieke ideologie</referrer>
+      <referrer>partijverbod</referrer>
+      <referrer>partijwezen</referrer>
+    </referrers>
+  </theme>
+  <theme id='preventie_van_ziekten'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>bevolkingsonderzoek</referrer>
+      <referrer>erfelijkheidsonderzoek</referrer>
+      <referrer>gezondheidsvoorlichting</referrer>
+      <referrer>jongeren beleid jeugdgezondheidszorg</referrer>
+      <referrer>medisch-technologisch onderzoek</referrer>
+      <referrer>medisch-wetenschappelijk onderzoek</referrer>
+      <referrer>medische technologie</referrer>
+      <referrer>preventieve gezondheidszorg</referrer>
+      <referrer>sociale voorzieningen prenatale diagnostiek</referrer>
+    </referrers>
+  </theme>
+  <theme id='produktiegroei'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>overproduktie</referrer>
+      <referrer>produktiebeheersinglbeperking</referrer>
+      <referrer>produktieplafondlproduktie-uitbreiding</referrer>
+    </referrers>
+  </theme>
+  <theme id='provinciaal_bestuur_en_beleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Commissaris der Koningin</referrer>
+      <referrer>Gedeputeerden</referrer>
+      <referrer>Provinciale Staten</referrer>
+      <referrer>overheidsbestuur en overheidsbeleid functionele regio's</referrer>
+      <referrer>provinciaal belastinggebied</referrer>
+      <referrer>regionaal bestuur</referrer>
+      <referrer>regionale overheden</referrer>
+      <referrer>sectorale regionalisatie</referrer>
+    </referrers>
+  </theme>
+  <theme id='publiekrechtelijke_bedrijfsorganisatie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>PBO</referrer>
+    </referrers>
+  </theme>
+  <theme id='rechten'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Europees Verdrag Mensenrechten</referrer>
+    </referrers>
+  </theme>
+  <theme id='rechten_van_de'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>burgerrechten</referrer>
+    </referrers>
+  </theme>
+  <theme id='rechten_van_de_mens'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>dwangarbeid</referrer>
+      <referrer>kinderarbeid</referrer>
+      <referrer>mensenrechten</referrer>
+      <referrer>slavenarbeid</referrer>
+    </referrers>
+  </theme>
+  <theme id='reclame'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Reclame Code Commissie (RCC)</referrer>
+      <referrer>alcoholreclame</referrer>
+      <referrer>reclamevliegen</referrer>
+      <referrer>reclamevluchten</referrer>
+      <referrer>tabaksreclame</referrer>
+    </referrers>
+  </theme>
+  <theme id='recreatie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Nederlands Bureau voor Toerisme</referrer>
+      <referrer>ontspanning</referrer>
+      <referrer>passieve recreatievormen</referrer>
+      <referrer>plattelands toerisme</referrer>
+      <referrer>recreatievliegen</referrer>
+      <referrer>vrijetijd(sbesteding)</referrer>
+    </referrers>
+  </theme>
+  <theme id='ree_rea_tie'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>toerisme</referrer>
+    </referrers>
+  </theme>
+  <theme id='referendum'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>consultatief referendum</referrer>
+      <referrer>correctief referendum</referrer>
+      <referrer>corrigerend (wetgevings)referendum</referrer>
+      <referrer>volksinitiatief</referrer>
+      <referrer>volksreferendum</referrer>
+      <referrer>wetgevend referendum</referrer>
+      <referrer>wetgevingsreferendum</referrer>
+    </referrers>
+  </theme>
+  <theme id='regionale_ontwikkeling'>
+    <related_themes>
+      <theme id='Randstad'/>
+      <theme id='grote_steden_grote-stedenbeleid'/>
+    </related_themes>
+    <referrers>
+      <referrer>Noorden (des lands)</referrer>
+      <referrer>Oosten des lands</referrer>
+      <referrer>Rijnmond</referrer>
+      <referrer>Zuiden des lands</referrer>
+      <referrer>grensoverschrijdende ontwikkelingen</referrer>
+      <referrer>grensregio's</referrer>
+      <referrer>regionale investeringsprojecten</referrer>
+    </referrers>
+  </theme>
+  <theme id='reiskostenforfait'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='religie'>
+    <related_themes>
+      <theme id='zondagsrust'/>
+    </related_themes>
+    <referrers>
+      <referrer>Islam(itisch)</referrer>
+      <referrer>christelijke waarden</referrer>
+      <referrer>christendom</referrer>
+      <referrer>geestelijke verzorging (in gevangenissen,leger, ziekenhuizen)</referrer>
+      <referrer>godsdienst</referrer>
+      <referrer>godsdienstvrijheid</referrer>
+      <referrer>kerk(en)</referrer>
+      <referrer>moskee(diensten)</referrer>
+      <referrer>oecumene</referrer>
+      <referrer>religieuze identiteit</referrer>
+      <referrer>religieuze tolerantie</referrer>
+      <referrer>scheiding van kerk en staat</referrer>
+      <referrer>vrijheid van godsdienst</referrer>
+    </referrers>
+  </theme>
+  <theme id='remigratiebeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>terugkeeroptie</referrer>
+    </referrers>
+  </theme>
+  <theme id='ruimtelijke_ordening'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Planologische Kernbeslissings-procedure (PKB)</referrer>
+      <referrer>Rijks Planologische Dienst</referrer>
+      <referrer>bestemmingsplannen</referrer>
+      <referrer>inrichting van Nederland</referrer>
+      <referrer>openbare ruimte</referrer>
+      <referrer>ruimtebeheer</referrer>
+      <referrer>ruimtebeslag</referrer>
+      <referrer>ruimtegebruik</referrer>
+      <referrer>ruimtelijke hoofdstructuur</referrer>
+      <referrer>ruimtelijke indeling</referrer>
+      <referrer>ruimtelijke inrichting</referrer>
+      <referrer>ruimtelijke ordening stedelijke knooppunten</referrer>
+      <referrer>ruimtelijke ordening verstedelijkte gebieden</referrer>
+      <referrer>ruimteverdeling</referrer>
+      <referrer>schaarse ruimte</referrer>
+      <referrer>stedelijke omgeving</referrer>
+      <referrer>woonomgeving</referrer>
+    </referrers>
+  </theme>
+  <theme id='school'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>autonomie van scholen</referrer>
+      <referrer>bewegingsonderwijs</referrer>
+      <referrer>brede-school-initiatieven</referrer>
+      <referrer>fusies</referrer>
+      <referrer>groepsgrootte, verkleining van</referrer>
+      <referrer>klassengrootte</referrer>
+      <referrer>klassenverkleining</referrer>
+      <referrer>leerlingbegeleiding</referrer>
+      <referrer>leerlinge en)</referrer>
+      <referrer>leerlingen vervoer</referrer>
+      <referrer>medezeggenschapsraad</referrer>
+      <referrer>onderwijsprogram ma</referrer>
+      <referrer>regionalisering onderwijs</referrer>
+      <referrer>schaalvergroting onderwijs</referrer>
+      <referrer>scholengemeenschap</referrer>
+      <referrer>scholieren</referrer>
+      <referrer>schoo</referrer>
+      <referrer>schoolbegeleidingsdiensten</referrer>
+      <referrer>schoolbestuur</referrer>
+      <referrer>schoolbus</referrer>
+      <referrer>schoolleiders</referrer>
+      <referrer>schoolzwem men</referrer>
+    </referrers>
+  </theme>
+  <theme id='school_sportbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>sportvakleerkrachten</referrer>
+      <referrer>vakleerkrachten lichamelijke opvoeding</referrer>
+    </referrers>
+  </theme>
+  <theme id='seksueel_geweld'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>incest</referrer>
+      <referrer>misbruik van kinderen</referrer>
+      <referrer>seksueel misbruik</referrer>
+      <referrer>seksuele intimidatie</referrer>
+    </referrers>
+  </theme>
+  <theme id='slachtofferhulp'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='sociale'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Wet op de Reïntegratie</referrer>
+    </referrers>
+  </theme>
+  <theme id='sociale_partners'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>vakbeweging</referrer>
+      <referrer>vakbonden</referrer>
+      <referrer>werkgevers (organ isaties)</referrer>
+      <referrer>werknemers(organisaties)</referrer>
+    </referrers>
+  </theme>
+  <theme id='sociale_voorzieningen'>
+    <related_themes>
+      <theme id='AOW_AOWers'/>
+      <theme id='WAO_WAOers'/>
+      <theme id='individuele_huursubsidie'/>
+      <theme id='sociale_werkvoorziening'/>
+      <theme id='verzorgingsstaat'/>
+    </related_themes>
+    <referrers>
+      <referrer>Algemene Bijstandswet (ABW)</referrer>
+      <referrer>Algemene Weduwen- en Wezenwet (AWW)</referrer>
+      <referrer>Organisatiewet Sociale Verzekeringen</referrer>
+      <referrer>Sociale Verzekeringsbank</referrer>
+      <referrer>WW-gerechtigden</referrer>
+      <referrer>WW-uitkering</referrer>
+      <referrer>Werkloosheidswet (WW)</referrer>
+      <referrer>Ziektewet</referrer>
+      <referrer>aanvullende uitkering</referrer>
+      <referrer>beroepsonderwijs (excl. Hoger Beroepsonderwijs)</referrer>
+      <referrer>bijstand</referrer>
+      <referrer>bijstandsgerechtigden</referrer>
+      <referrer>bijstandsmoeders</referrer>
+      <referrer>bijstandstrekkers</referrer>
+      <referrer>bijverdiensten</referrer>
+      <referrer>bijzondere bijstand</referrer>
+      <referrer>collectieve voorzieningen</referrer>
+      <referrer>gemeentelijke sociale dienst</referrer>
+      <referrer>passende arbeid</referrer>
+      <referrer>reïntegratie van uitkeringsgerechtigden</referrer>
+      <referrer>sociaal stelsel</referrer>
+      <referrer>sociale dienst</referrer>
+      <referrer>sociale nood</referrer>
+      <referrer>sociale rechtvaardigheid</referrer>
+      <referrer>sociale stabiliteit</referrer>
+      <referrer>sociale verzekeringen</referrer>
+      <referrer>sociale zekerheid</referrer>
+      <referrer>sollicitatieplicht</referrer>
+      <referrer>uitkeringen</referrer>
+      <referrer>uitkeringsgerechtigden</referrer>
+      <referrer>uitkeringsinstanties</referrer>
+      <referrer>verhaalsplicht</referrer>
+      <referrer>volksverzekeringen</referrer>
+      <referrer>voorzieningen sociale rechtsstaat</referrer>
+      <referrer>wachtgeld(ers)</referrer>
+      <referrer>werkloosheidsuitkering</referrer>
+      <referrer>werknemersverzekeringen</referrer>
+    </referrers>
+  </theme>
+  <theme id='sociale_werkvoorziening'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>sociale werkplaatsen</referrer>
+    </referrers>
+  </theme>
+  <theme id='speciaal_onderwijs'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Weer Samen Naar School</referrer>
+      <referrer>beroepsonderwijs (excl. Hoger Beroepsonderwijs)</referrer>
+      <referrer>geïntegreerd speciaal onderwijs</referrer>
+      <referrer>speciaal voortgezet onderwijs</referrer>
+    </referrers>
+  </theme>
+  <theme id='sportbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>amateursport</referrer>
+      <referrer>beroepssport</referrer>
+      <referrer>breedtesport</referrer>
+      <referrer>prof-sport</referrer>
+      <referrer>spelverruwing</referrer>
+      <referrer>sponsoring van sport</referrer>
+      <referrer>sportclub</referrer>
+      <referrer>sportinfrastructuur</referrer>
+      <referrer>sportorganisatie</referrer>
+      <referrer>sportsponsering</referrer>
+      <referrer>sportveremgmg</referrer>
+      <referrer>sportvliegen</referrer>
+      <referrer>sportvoorzieningen</referrer>
+      <referrer>sportwedstrijden</referrer>
+      <referrer>stadions</referrer>
+      <referrer>topsport(ers)</referrer>
+      <referrer>watersport</referrer>
+    </referrers>
+  </theme>
+  <theme id='staatsvorm'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Koningin</referrer>
+      <referrer>Koninklijk Huis</referrer>
+      <referrer>Oranjehuis</referrer>
+      <referrer>Staatshoofd</referrer>
+      <referrer>constitutionele monarchie</referrer>
+      <referrer>democratie</referrer>
+      <referrer>monarchie</referrer>
+      <referrer>parlementaire democratie</referrer>
+      <referrer>participatie-democratie</referrer>
+      <referrer>rechtsstaat</referrer>
+      <referrer>representatieve democratie</referrer>
+    </referrers>
+  </theme>
+  <theme id='stadsvernieuwing'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>oude stadswijken</referrer>
+      <referrer>oude steden</referrer>
+    </referrers>
+  </theme>
+  <theme id='stadsvervoer'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='studiefinanciering'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Beroepsonderwijs)</referrer>
+      <referrer>aanvullende beurs</referrer>
+      <referrer>basisbeurs</referrer>
+      <referrer>collegegeLd</referrer>
+      <referrer>leenstelsel</referrer>
+      <referrer>lesgeld</referrer>
+      <referrer>o V-studentenkaart</referrer>
+      <referrer>ouderbijdrage</referrer>
+      <referrer>ouderlijke bijdrage</referrer>
+      <referrer>ouderonafhankelijkheid</referrer>
+      <referrer>prestatiebeurs</referrer>
+      <referrer>prestatienorm</referrer>
+      <referrer>schoolgeldregeling</referrer>
+      <referrer>studiekosten</referrer>
+      <referrer>studielening</referrer>
+      <referrer>studieschuld</referrer>
+      <referrer>tempobeurs</referrer>
+    </referrers>
+  </theme>
+  <theme id='technologische_vernieuwingen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Innovatie(Centra)</referrer>
+      <referrer>R&amp;D (research and development)</referrer>
+      <referrer>TNO</referrer>
+      <referrer>industriële innovatie</referrer>
+      <referrer>onderzoek en ontwikkeling</referrer>
+      <referrer>technologische innovatie</referrer>
+      <referrer>technologische revolutie</referrer>
+      <referrer>technologische vooruitgang</referrer>
+    </referrers>
+  </theme>
+  <theme id='terrorisme_bestrijding_van'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>stadsguerilla</referrer>
+    </referrers>
+  </theme>
+  <theme id='thuiszorg'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Landelijke Organisatie Thuisverzorgers (LOT)</referrer>
+      <referrer>intensieve thuiszorg</referrer>
+      <referrer>terminale thuiszorg</referrer>
+    </referrers>
+  </theme>
+  <theme id='uitvoeringsinstelling'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Landelijk Instituut voor Sociale Verzekeringen (LlSV)</referrer>
+      <referrer>Wet op de Reïntegratie</referrer>
+      <referrer>bedrijfsvereniging</referrer>
+    </referrers>
+  </theme>
+  <theme id='veiligheidsbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Europees veiligheidsbeleid</referrer>
+      <referrer>Europees veiligheidssysteem</referrer>
+      <referrer>Europese defensiemacht</referrer>
+      <referrer>con flictbeh eers i ng</referrer>
+      <referrer>conflictpreven tie</referrer>
+      <referrer>veiligheidsstrategie</referrer>
+      <referrer>vrede</referrer>
+    </referrers>
+  </theme>
+  <theme id='vennootschapsbelasting'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='vermogenswinstbelasting'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='verslaving'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Consultatiebureau voor ALcohoL en Drugs (CAD)</referrer>
+      <referrer>Opiumwet</referrer>
+      <referrer>SOV-cellen</referrer>
+      <referrer>Staatsloterij</referrer>
+      <referrer>Strafrechtelijke Opvang van Verslaafden (SOV)</referrer>
+      <referrer>Tabakswet</referrer>
+      <referrer>XTC-gebruik</referrer>
+      <referrer>XTC-pil</referrer>
+      <referrer>afkickcentra</referrer>
+      <referrer>afkicken</referrer>
+      <referrer>afkickprogramma</referrer>
+      <referrer>alcohol</referrer>
+      <referrer>alcoholisme</referrer>
+      <referrer>cannabisproducten</referrer>
+      <referrer>casino</referrer>
+      <referrer>cocaïne</referrer>
+      <referrer>coffeeshops</referrer>
+      <referrer>dnlgs(beleid)</referrer>
+      <referrer>drankmisbruik</referrer>
+      <referrer>drugsgebruik</referrer>
+      <referrer>drugstoerisme</referrer>
+      <referrer>ecodrugs</referrer>
+      <referrer>gokautomaten</referrer>
+      <referrer>gokindustrie</referrer>
+      <referrer>gokverslaving</referrer>
+      <referrer>hard drugs(verslaafden)</referrer>
+      <referrer>heroïne</referrer>
+      <referrer>heroïneverstrekkingsexperimenten</referrer>
+      <referrer>houseparty's</referrer>
+      <referrer>kansspelen</referrer>
+      <referrer>loterij</referrer>
+      <referrer>marihuana</referrer>
+      <referrer>nicotine</referrer>
+      <referrer>opiaatverslaafden</referrer>
+      <referrer>paddestoel(produkten) met hallucinerende werking</referrer>
+      <referrer>roesmiddelen</referrer>
+      <referrer>roken</referrer>
+      <referrer>rookvrije ruimten</referrer>
+      <referrer>rookvrije werkplek</referrer>
+      <referrer>sigaretten(automaten)</referrer>
+      <referrer>soft drugs</referrer>
+      <referrer>spuitenomruilmogelijkheid</referrer>
+      <referrer>tabak</referrer>
+      <referrer>verdovende middelen</referrer>
+      <referrer>verplicht afkicken</referrer>
+      <referrer>verslaafden (zorg)</referrer>
+      <referrer>verslavingsklin ieken</referrer>
+      <referrer>verslavingszorg</referrer>
+      <referrer>vrije verstrekking (van heroïne)</referrer>
+    </referrers>
+  </theme>
+  <theme id='verslaving_geestelijke_gezondheidszorg'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='verslaving_zedelijkheidswetgeving'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>nul-zes lijnen (06-lijnen)</referrer>
+    </referrers>
+  </theme>
+  <theme id='verzekeringsmaatschappijen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>acceptatieplicht</referrer>
+    </referrers>
+  </theme>
+  <theme id='verzorgingsstaat'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='visserij_be_leid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>visquota</referrer>
+    </referrers>
+  </theme>
+  <theme id='visserij_beleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>vissers(vloot)</referrer>
+    </referrers>
+  </theme>
+  <theme id='visserijbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Gemeenschappelijk Visserij beleid</referrer>
+      <referrer>bijvangsten regeling</referrer>
+      <referrer>en zeescheepvaart schelpdieren (cultuur)</referrer>
+      <referrer>maatschapvisser</referrer>
+      <referrer>overbevissing</referrer>
+      <referrer>schaal- en schelpdieren</referrer>
+      <referrer>vangstbeperkingen</referrer>
+      <referrer>vangstcapaciteit</referrer>
+      <referrer>vangstquota</referrer>
+      <referrer>vis bestanden</referrer>
+    </referrers>
+  </theme>
+  <theme id='vluchtelingen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>vreemdelingendetentie</referrer>
+    </referrers>
+  </theme>
+  <theme id='vluchtelingenbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>AZC</referrer>
+      <referrer>Asielzoekerscentrum (AZC)</referrer>
+      <referrer>Hoge Commissaris inzake Nationale Minderheden</referrer>
+      <referrer>Immigratie- en Naturalisatiedienst</referrer>
+      <referrer>Vreemdelingenwet</referrer>
+      <referrer>afgewezen asielzoekers</referrer>
+      <referrer>asielbeleid</referrer>
+      <referrer>asielproced ures</referrer>
+      <referrer>asielrecht</referrer>
+      <referrer>asielvragers</referrer>
+      <referrer>asielzoekers</referrer>
+      <referrer>doormigratie</referrer>
+      <referrer>gezinshereniging</referrer>
+      <referrer>illegale vreemdelingen</referrer>
+      <referrer>illegalen (instroom van)</referrer>
+      <referrer>immigratie(land)</referrer>
+      <referrer>migranten Immigratie- en Naturalisatiedienst (IND)</referrer>
+      <referrer>migratieoverschot</referrer>
+      <referrer>naturalisatie</referrer>
+      <referrer>onderwijs aan allochtonen</referrer>
+      <referrer>restrictief toelatingsbeleid</referrer>
+      <referrer>toelatingsbeleid</referrer>
+      <referrer>u itgep rocedeerde asielzoekers</referrer>
+      <referrer>uitwijzing</referrer>
+      <referrer>uitzettingsbeleid</referrer>
+      <referrer>verblijfsbeëindiging</referrer>
+      <referrer>verblijfsstatus</referrer>
+      <referrer>verblijfstitel</referrer>
+      <referrer>verblijfsvergunning</referrer>
+      <referrer>vluchtelingen migratie, opvang van</referrer>
+      <referrer>vluchtelingenorganisaties</referrer>
+      <referrer>vluchtelingenstatus</referrer>
+      <referrer>vreemdelingen(beleid)</referrer>
+      <referrer>vreemdelingenrechtspraak</referrer>
+      <referrer>vrouwelijke vluchtelingen</referrer>
+      <referrer>witte illegalen</referrer>
+    </referrers>
+  </theme>
+  <theme id='voorbereidend_wetenschappelijk'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>VWO</referrer>
+      <referrer>gymnasium</referrer>
+      <referrer>voorbereidend hoger onderwijs</referrer>
+    </referrers>
+  </theme>
+  <theme id='voorbereidend_wetenschappelijk_onderwijs'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='voorbereidend_wetenschappelijk_onderwijs_secundaire_arbeidsvoorwaarden'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>regionale ontwikkeling secundair onderwijs</referrer>
+    </referrers>
+  </theme>
+  <theme id='voortijdig_school_verlaten'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='voortijdig_schoolverlaten'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>drop-out(problematiek)</referrer>
+      <referrer>leerlinguitval</referrer>
+      <referrer>schooluitval</referrer>
+      <referrer>vroegtijdig schoolverlaten</referrer>
+    </referrers>
+  </theme>
+  <theme id='vrijwilligerswerk'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>onbetaalde arbeid</referrer>
+    </referrers>
+  </theme>
+  <theme id='wapenhandel'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>veiligheidsbeleid wapen export</referrer>
+    </referrers>
+  </theme>
+  <theme id='waterschappen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='waterstaat'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>dijkverhoging</referrer>
+      <referrer>dijkverzwaring</referrer>
+      <referrer>rivierdijken, versterking van</referrer>
+      <referrer>waterwegen</referrer>
+      <referrer>zeedijken, versterking van</referrer>
+    </referrers>
+  </theme>
+  <theme id='welzijnsbeleid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>daklozen</referrer>
+      <referrer>maatschappelijk werk</referrer>
+      <referrer>maatschappelijke dienstverlening</referrer>
+      <referrer>maatschappelijke zorg</referrer>
+      <referrer>migranten zwerfjongeren</referrer>
+      <referrer>non-profit sector</referrer>
+      <referrer>overheidsbestuur en overheidstaken thuislozen</referrer>
+      <referrer>regionale zorgvoorzieningen</referrer>
+      <referrer>sociale pensions</referrer>
+      <referrer>thuislozen</referrer>
+      <referrer>wachtlijsten</referrer>
+      <referrer>wachttijden</referrer>
+      <referrer>welzij nsvoorzien ingen</referrer>
+      <referrer>zorgaanbod</referrer>
+      <referrer>zorgbehoefte</referrer>
+      <referrer>zorgbudgetten</referrer>
+      <referrer>zorginstellingen</referrer>
+      <referrer>zorgsector</referrer>
+      <referrer>zorgstelsel</referrer>
+    </referrers>
+  </theme>
+  <theme id='welzijnsbeleid_Zuid-Afrika'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='werkgelegenheid'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Algemeen Werkloosheidsfonds</referrer>
+      <referrer>Jeugdwerkgarantieplan (JWG)</referrer>
+      <referrer>Melkert-banen</referrer>
+      <referrer>Wet Inschakeling Werkzoekenden (WIW)</referrer>
+      <referrer>actieven</referrer>
+      <referrer>arbeid</referrer>
+      <referrer>arbeidsaan bod</referrer>
+      <referrer>arbeidsbemiddeling</referrer>
+      <referrer>arbeidsbestel</referrer>
+      <referrer>arbeidsbureau</referrer>
+      <referrer>arbeidsgeschikten</referrer>
+      <referrer>arbeidskrach ten</referrer>
+      <referrer>arbeidsmarkt</referrer>
+      <referrer>arbeidsmobiliteit</referrer>
+      <referrer>arbeidsparticipatie</referrer>
+      <referrer>arbeidsplaatsen</referrer>
+      <referrer>arbeidsproces</referrer>
+      <referrer>arbeidsvoorziening(sorganisatie)</referrer>
+      <referrer>banen scheppen</referrer>
+      <referrer>banengroei</referrer>
+      <referrer>banenmotor</referrer>
+      <referrer>banenpools</referrer>
+      <referrer>betaalde arbeid</referrer>
+      <referrer>betaalde baan</referrer>
+      <referrer>grote steden</referrer>
+      <referrer>grote-stedenbeleid Regionaal Bureau Arbeidsvoorziening(RBA)</referrer>
+      <referrer>herintreders op de arbeidsmarkt</referrer>
+      <referrer>herverdeling van arbeid</referrer>
+      <referrer>inactieve werknemers</referrer>
+      <referrer>laaggekwalificeerde werkzoekenden</referrer>
+      <referrer>laagopgeleiden</referrer>
+      <referrer>langdurig werklozen</referrer>
+      <referrer>ontslagbescherm ing</referrer>
+      <referrer>ontslagrecht</referrer>
+      <referrer>reïntegratie van uitkeringsgerechtigden</referrer>
+      <referrer>seizoenarbeid</referrer>
+      <referrer>terugkeerregeling</referrer>
+      <referrer>tijdelijke arbeid</referrer>
+      <referrer>uitkeringsgerechtigden, herintreding van</referrer>
+      <referrer>uitzendarbeid</referrer>
+      <referrer>uitzendbureaus</referrer>
+      <referrer>wachtgeld(ers)</referrer>
+      <referrer>werkgelegen heidseffecten</referrer>
+      <referrer>werkgelegenheids groei</referrer>
+      <referrer>werkgelegenheidsbeleid</referrer>
+      <referrer>werkgelegenheidsherstel</referrer>
+      <referrer>werkloosheid</referrer>
+      <referrer>werklozen</referrer>
+      <referrer>werkzoekenden</referrer>
+    </referrers>
+  </theme>
+  <theme id='wetshandhaving'>
+    <related_themes>
+      <theme id='gevangeniswezen'/>
+    </related_themes>
+    <referrers>
+      <referrer>A U-afhandeling (Aanhouden en Uitreiken)</referrer>
+      <referrer>College van Procureurs-GeneraaL</referrer>
+      <referrer>HAL T-bureaus</referrer>
+      <referrer>Officier van Justitie</referrer>
+      <referrer>Openbaar Ministerie</referrer>
+      <referrer>SOV-cellen</referrer>
+      <referrer>Strafrechtelijke Opvang van Verslaafden (SOV)</referrer>
+      <referrer>Wet op de Rechtsbijstand</referrer>
+      <referrer>Wetboek van Strafrecht</referrer>
+      <referrer>advocaten</referrer>
+      <referrer>advocatuur</referrer>
+      <referrer>alternatieve sancties</referrer>
+      <referrer>boetes</referrer>
+      <referrer>delinquenten</referrer>
+      <referrer>geldboetes</referrer>
+      <referrer>heenzendingen</referrer>
+      <referrer>hoger beroep</referrer>
+      <referrer>juridisering</referrer>
+      <referrer>justitie</referrer>
+      <referrer>justitieel apparaat</referrer>
+      <referrer>kantongerecht</referrer>
+      <referrer>kantonrechter</referrer>
+      <referrer>kinderrechter</referrer>
+      <referrer>kroongetuige</referrer>
+      <referrer>lik-op-stuk-beleid</referrer>
+      <referrer>onderwijs HALT-afdoening</referrer>
+      <referrer>openbare orde</referrer>
+      <referrer>opsporingsbevoegdheid</referrer>
+      <referrer>opsporingsmethoden</referrer>
+      <referrer>rechter</referrer>
+      <referrer>rechterlijke macht</referrer>
+      <referrer>rechterlijke organisatie</referrer>
+      <referrer>rechtsbescherming</referrer>
+      <referrer>rechtsgang</referrer>
+      <referrer>rechtshandhaving</referrer>
+      <referrer>rechtshulp</referrer>
+      <referrer>rechtsorde (handhaving van)</referrer>
+      <referrer>rechtspraak</referrer>
+      <referrer>sociale advocatuur</referrer>
+      <referrer>staande magistratuur</referrer>
+      <referrer>straffen</referrer>
+      <referrer>strafmaat</referrer>
+      <referrer>strafoplegging</referrer>
+      <referrer>strafrecht</referrer>
+      <referrer>taakstraffen</referrer>
+      <referrer>uitkeringsgerechtigden, herintreding van</referrer>
+      <referrer>verslaving strafbaarstelling</referrer>
+      <referrer>vervroegde invrijheidstelling</referrer>
+      <referrer>voorlopige hechtenis</referrer>
+      <referrer>voorwaardelijke invrijheidstelling</referrer>
+      <referrer>vormfouten</referrer>
+      <referrer>zittende magistratuur</referrer>
+    </referrers>
+  </theme>
+  <theme id='wijken_en_dorpen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>dorpen</referrer>
+      <referrer>wijk- en dorpsraden</referrer>
+      <referrer>wijkopbouwwerk</referrer>
+    </referrers>
+  </theme>
+  <theme id='woningbezit'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>casco-aankopenlcasco-verkopen</referrer>
+      <referrer>huisjesmelkerij</referrer>
+      <referrer>huisvesting</referrer>
+      <referrer>huur(ders)</referrer>
+      <referrer>huurbelasting</referrer>
+      <referrer>huurbeleid</referrer>
+      <referrer>huurharmonisatieihuurliberalisatie</referrer>
+      <referrer>huurprijzen wetgeving</referrer>
+      <referrer>huurstijginglhuurtrendlhuurverhoging</referrer>
+      <referrer>huurwoningen</referrer>
+      <referrer>koopwoningen</referrer>
+      <referrer>onderwijs Waarborgfonds Eigen Woning</referrer>
+      <referrer>particulier woningbezit</referrer>
+      <referrer>volkshuisvesting</referrer>
+      <referrer>woning(en)</referrer>
+      <referrer>woningmarkt</referrer>
+      <referrer>woningzoekenden</referrer>
+      <referrer>woonkosten</referrer>
+      <referrer>woonlasten</referrer>
+      <referrer>woonquote</referrer>
+      <referrer>woonruimte(verdelingsbeleid)</referrer>
+      <referrer>woonvergunning</referrer>
+    </referrers>
+  </theme>
+  <theme id='woningbouw'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Vinex-beleid</referrer>
+      <referrer>Vinex-gebieden</referrer>
+      <referrer>bouwbeleid</referrer>
+      <referrer>bouwlocaties</referrer>
+      <referrer>bouwprogramma's</referrer>
+      <referrer>doorstrom ing(sbeleid)</referrer>
+      <referrer>grondonteigening</referrer>
+      <referrer>huizentekort</referrer>
+      <referrer>nieuwbouw</referrer>
+      <referrer>renovatie</referrer>
+      <referrer>sociale volkshuisvesting</referrer>
+      <referrer>sociale woningbouw</referrer>
+      <referrer>volkshuisvesting</referrer>
+      <referrer>woningaanbod</referrer>
+      <referrer>woningbehoefte</referrer>
+      <referrer>woningnood</referrer>
+      <referrer>woningtekort</referrer>
+      <referrer>woningverbetering</referrer>
+      <referrer>woningvoorraad</referrer>
+    </referrers>
+  </theme>
+  <theme id='woningbouwverenigingen'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>sociale huursector</referrer>
+      <referrer>sociale verhuurders</referrer>
+      <referrer>woningbouwcorporaties</referrer>
+      <referrer>woningcorporaties</referrer>
+    </referrers>
+  </theme>
+  <theme id='zedelijkheidswetgeving'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>bordeel(verbod)</referrer>
+      <referrer>erotische telefoonlijnen</referrer>
+      <referrer>filmkeuring</referrer>
+      <referrer>kinderpornografie</referrer>
+      <referrer>kinderprostitutie</referrer>
+      <referrer>openbare eerbaarheid</referrer>
+      <referrer>pedofilie</referrer>
+      <referrer>pornografie</referrer>
+      <referrer>prostitutie</referrer>
+      <referrer>seks-advertenties</referrer>
+      <referrer>seks-shops</referrer>
+      <referrer>seksclubs</referrer>
+      <referrer>sekslijnen</referrer>
+      <referrer>sekstoerisme</referrer>
+    </referrers>
+  </theme>
+  <theme id='zeehavens'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>scheepvaart</referrer>
+    </referrers>
+  </theme>
+  <theme id='zeehavens_en_zeescheepvaart'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>havens</referrer>
+      <referrer>kustvaart</referrer>
+      <referrer>mainports</referrer>
+      <referrer>tankschepen</referrer>
+      <referrer>zeescheepvaart</referrer>
+    </referrers>
+  </theme>
+  <theme id='zelfdoding'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>hulp bij zelfdoding</referrer>
+    </referrers>
+  </theme>
+  <theme id='ziekenfonds'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>Ziekenfondsgrens</referrer>
+      <referrer>Ziekenfondsraad</referrer>
+      <referrer>Ziekenfondswet (ZW)</referrer>
+      <referrer>eigen bijdrage</referrer>
+      <referrer>eigen risico</referrer>
+      <referrer>ziekenfondspakket</referrer>
+    </referrers>
+  </theme>
+  <theme id='ziekenverzorging'>
+    <related_themes>
+      <theme id='orgaandonatie_orgaantransplantatie'/>
+    </related_themes>
+    <referrers>
+      <referrer>College voor Ziekenhuisvoorzieningen</referrer>
+      <referrer>GGD</referrer>
+      <referrer>SGP</referrer>
+      <referrer>alfa-hulp</referrer>
+      <referrer>besmettelijke ziekte</referrer>
+      <referrer>chronisch ziekenlchronische patiënten</referrer>
+      <referrer>cliëntenorganisatie</referrer>
+      <referrer>curatieve zorg</referrer>
+      <referrer>fysiotherapie</referrer>
+      <referrer>geneesmiddelen (pakket)</referrer>
+      <referrer>geriatrische afdeling</referrer>
+      <referrer>handen aan het bed</referrer>
+      <referrer>hospices</referrer>
+      <referrer>intramurale voorzieningen</referrer>
+      <referrer>mantelzorg(ers)</referrer>
+      <referrer>medicijngebruik</referrer>
+      <referrer>overheidsbestuur en overheidstaken verzorgenden</referrer>
+      <referrer>palliatieve chirurgie</referrer>
+      <referrer>palliatieve zorg</referrer>
+      <referrer>patiënten</referrer>
+      <referrer>patiënten-platform</referrer>
+      <referrer>patiëntenorganisatie</referrer>
+      <referrer>patiëntenrechten</referrer>
+      <referrer>patiëntenvereniging</referrer>
+      <referrer>patiëntenverenigmg</referrer>
+      <referrer>patiëntenzorg</referrer>
+      <referrer>pijnbestrijding</referrer>
+      <referrer>plastische chirurgie</referrer>
+      <referrer>r ziekenhuis(bouw)</referrer>
+      <referrer>stervensbegeleiding</referrer>
+      <referrer>tandheelkundige hulp</referrer>
+      <referrer>tandzorg</referrer>
+      <referrer>transmurale zorg</referrer>
+      <referrer>verpleeghuizen</referrer>
+      <referrer>verpleegkundig personeel</referrer>
+      <referrer>verpleegtehuis</referrer>
+      <referrer>verplegenden</referrer>
+      <referrer>verpleging</referrer>
+      <referrer>versterven</referrer>
+      <referrer>verzorgingshuis</referrer>
+      <referrer>verzorgingsverlof</referrer>
+      <referrer>wijkverpleging</referrer>
+      <referrer>zieken</referrer>
+    </referrers>
+  </theme>
+  <theme id='ziekenverzorging_collectieve_uitgaven'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+  <theme id='ziektekostenverzekering'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+      <referrer>AWBZ</referrer>
+      <referrer>Algemene Wet Bijzondere Ziektekosten (AWBZ)</referrer>
+      <referrer>Wet Toegang tot Ziektekostenverzekeringen (WTZ)</referrer>
+      <referrer>aanbieders van zorg</referrer>
+      <referrer>basispakket</referrer>
+      <referrer>eigen bijdrage</referrer>
+      <referrer>eigen risico</referrer>
+      <referrer>particuliere ziektekostenverzekering</referrer>
+      <referrer>zorgverleners</referrer>
+      <referrer>zorgverlening</referrer>
+      <referrer>zorgverzekeraars</referrer>
+      <referrer>zorgvraag</referrer>
+      <referrer>zorgvragers</referrer>
+    </referrers>
+  </theme>
+  <theme id='zondagsarbeid_zondagsrust'>
+    <related_themes>
+    </related_themes>
+    <referrers>
+    </referrers>
+  </theme>
+</Lipschits_taxonomy>
